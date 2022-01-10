@@ -1,2 +1,3 @@
 # Getting Started...
 
+You don't know how to start with Doraemon Battle game? type `cattutorial`
