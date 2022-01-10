@@ -31,4 +31,3 @@ Use **`cathelp channel`** for more info
 ## Is there any purge or nuke command?
 
 `catclean {number}`
-
