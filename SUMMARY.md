@@ -17,6 +17,7 @@
 
 ## Gambles & Minigames
 
+* [Economy](gambles-and-minigames/economy.md)
 * [Gambles](gambles-and-minigames/page-4.md)
 * [Custom games](gambles-and-minigames/custom-games/README.md)
   * [Play ludo with your friends](gambles-and-minigames/custom-games/play-ludo-with-your-friends.md)
