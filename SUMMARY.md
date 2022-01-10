@@ -5,6 +5,7 @@
 
 ## Community Utility
 
+* [Language & Prefix](community-utility/language-and-prefix.md)
 * [Feature Channels](community-utility/page-2.md)
 * [Confessions](community-utility/confessions.md)
 * [Temp Voice Channels](community-utility/temp-voice-channels.md)
