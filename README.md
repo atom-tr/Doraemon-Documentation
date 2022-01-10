@@ -4,27 +4,27 @@
 
 A cute bot with battle RPG, PvP gambles, text to speech, anonymous confession, temp voice channel, conditional giveaway, Among us, etc..
 
-Đây là một số link hữu ích dành cho bạn:
+Here you are, some useful links:
 
-* [**Invite Doraemon**](https://discord.com/oauth2/authorize?client_id=574812330760863744&permissions=838332017&scope=bot)
-* [**Support Channel**](https://discord.gg/9kfcFNt)
-* [**Vote Doraemon**](https://top.gg/bot/574812330760863744/vote)
+* \*\*\*\*[**Invite Doraemon**](https://discord.com/oauth2/authorize?client_id=574812330760863744&permissions=838332017&scope=bot)\*\*\*\*
+* \*\*\*\*[**Support Channel**](https://discord.gg/9kfcFNt)\*\*\*\*
+* \*\*\*\*[**Vote Doraemon**](https://top.gg/bot/574812330760863744/vote)\*\*\*\*
 
 ### Commands
 
-Một số lệnh cat sẽ có các lệnh con, cấu trúc câu lệnh sẽ như sau: `cat [lệnh] [lệnh con] [đối số]`
+Some commands have its subcommands, if so the syntax will be: `cat [command] [subcommand] [arguments]`
 
 ### Syntax:
 
 Before anything, we should go over the basics of how to read Yui's command prompts and Syntax
 
 {% hint style="danger" %}
-Không nhập: **&lt; &gt;, {}, \[ \], or \|** vào các câu lệnh của bạn.
+Do not type: **&lt; &gt;, {}, \[ \], or \|**  in your commands, these are only placeholders! 
 {% endhint %}
 
 ## Battle game
 
-Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng cấp sức mạnh bản thân để cùng team chinh phục Adventure, Boss, Boss thế giới.
+Claim characters, find weapons, collect gadgets, buy gems, upgrade your equipments and fight with bosses and other users
 
 <table>
   <thead>
@@ -38,29 +38,27 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>me</code>
       </td>
-      <td style="text-align:left">Ki&#x1EC3;m tra th&#xF4;ng tin trang b&#x1ECB; b&#x1EA3;n th&#xE2;n</td>
-      <td
-      style="text-align:left">
+      <td style="text-align:left">Check your equipments. You can equip 1 character, 1 weapon and up to 3
+        gadgets</td>
+      <td style="text-align:left">
         <p><code>cati</code>
         </p>
         <p><code>catme</code>
         </p>
-        </td>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>character</code>
       </td>
-      <td style="text-align:left">Thu th&#x1EAD;p, t&#xEC;m ki&#x1EBF;m, trang b&#x1ECB;, &#x111;&#x1ED5;i
-        t&#xEA;n, reroll v&#xE0; ki&#x1EC3;m tra nh&#xE2;n v&#x1EAD;t b&#x1EA1;n
-        c&#xF3;</td>
-      <td style="text-align:left"><code>catc</code>
-      </td>
+      <td style="text-align:left">Claim, search, equip, rename, reroll and check your characters</td>
+      <td
+      style="text-align:left"><code>catc</code>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>weapon</code>
       </td>
-      <td style="text-align:left">T&#xEC;m ki&#x1EBF;m, ki&#x1EC3;m tra v&#x169; kh&#xED; b&#x1EA1;n &#x111;ang
-        c&#xF3; v&#xE0; trang b&#x1ECB; ch&#xFA;ng</td>
+      <td style="text-align:left">Claim, search, equip and check your weapons</td>
       <td style="text-align:left">
         <p><code>catwp</code>
         </p>
@@ -71,21 +69,18 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>gadget</code>
       </td>
-      <td style="text-align:left">T&#xEC;m ki&#x1EBF;m, dung luy&#x1EC7;n, ki&#x1EC3;m tra b&#x1EA3;o b&#x1ED1;i
-        b&#x1EA1;n &#x111;ang c&#xF3; v&#xE0; trang b&#x1ECB; ch&#xFA;ng</td>
-      <td
-      style="text-align:left">
+      <td style="text-align:left">Search, combine, equip and check your gadgets</td>
+      <td style="text-align:left">
         <p><code>catgadget</code>
         </p>
         <p><code>catgg</code>
         </p>
-        </td>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>gem</code>
       </td>
-      <td style="text-align:left">T&#xEC;m ki&#x1EBF;m, dung luy&#x1EC7;n, ki&#x1EC3;m tra b&#x1EA3;o b&#x1ED1;i
-        b&#x1EA1;n &#x111;ang c&#xF3;</td>
+      <td style="text-align:left">Search, combine and check your gems</td>
       <td style="text-align:left">
         <p><code>catgem</code>
         </p>
@@ -96,8 +91,7 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>team</code>
       </td>
-      <td style="text-align:left">Th&#xE0;nh l&#x1EAD;p team, c&#xF9;ng nhau chinh ph&#x1EE5;c th&#x1EBF;
-        gi&#x1EDB;i</td>
+      <td style="text-align:left">Lead your team and go team fight together</td>
       <td style="text-align:left">
         <p><code>catteam</code>
         </p>
@@ -108,19 +102,20 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>fight</code>
       </td>
-      <td style="text-align:left">...</td>
-      <td style="text-align:left">
+      <td style="text-align:left">Fight, fight solo rank, fight duo rank, fight with bosses and get rewards</td>
+      <td
+      style="text-align:left">
         <p><code>catfight</code>
         </p>
         <p><code>catf</code>
         </p>
-      </td>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>dorayaki</code>
       </td>
-      <td style="text-align:left">Ti&#x1EC1;n t&#x1EC7; trong game, c&#xF3; th&#x1EC3; chuy&#x1EC3;n &#x111;&#x1ED5;i
-        sang <code>nip</code> &#x111;&#x1EC3; c&#x1EDD; b&#x1EA1;c</td>
+      <td style="text-align:left">Battle currency. Earned by command work and selling things in Battle.
+        Can be transfered to catnip for gambling</td>
       <td style="text-align:left">
         <p><code>catdorayaki</code>
         </p>
@@ -138,22 +133,21 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>buy</code>
       </td>
-      <td style="text-align:left">Mua c&#xE1;c item &#x1EDF; shop b&#x1EB1;ng dorayaki</td>
+      <td style="text-align:left">Buy items in shop by dorayaki</td>
       <td style="text-align:left"><code>catbuy</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>item</code>
       </td>
-      <td style="text-align:left">Ki&#x1EC3;m tra item c&#x1EE7;a b&#x1EA1;n</td>
+      <td style="text-align:left">Check your items</td>
       <td style="text-align:left"><code>cat item</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>sell</code>
       </td>
-      <td style="text-align:left">B&#xE1;n nh&#x1EEF;ng g&#xEC; b&#x1EA1;n c&#xF3; &#x111;&#x1EC3; nh&#x1EAD;n
-        dorayaki</td>
+      <td style="text-align:left">Sell character, weapon, gadget, gem and get dorayaki</td>
       <td style="text-align:left"><code>cat sell</code>
       </td>
     </tr>
@@ -171,7 +165,7 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>trade</code>
       </td>
-      <td style="text-align:left">Trade v&#x1EDB;i ng&#x1B0;&#x1EDD;i ch&#x1A1;i kh&#xE1;c</td>
+      <td style="text-align:left">Trade with other users</td>
       <td style="text-align:left">
         <p><code>cat trade</code>
         </p>
@@ -182,30 +176,29 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>up</code>
       </td>
-      <td style="text-align:left">N&#xE2;ng c&#x1EA5;p nh&#xE2;n v&#x1EAD;t, trang b&#x1ECB;.</td>
+      <td style="text-align:left">Upgrade character, weapon, gadget by gem. Especially, you can upgrade
+        weapon strength level by gem houtu and .. your luck</td>
       <td style="text-align:left"><code>catup</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>use</code>
       </td>
-      <td style="text-align:left">S&#x1EED; d&#x1EE5;ng c&#xE1;c item b&#x1EA1;n c&#xF3;</td>
+      <td style="text-align:left">Use items in inventory</td>
       <td style="text-align:left"><code>catuse</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>work</code>
       </td>
-      <td style="text-align:left">Th&#x103;m ng&#xE0;n, k&#x1EB9;t ng&#x1EA7;n &#x111;&#x1EC3; c&#xF3; <code>dora</code>, <code>gem</code>, <code>gadget</code>
-      </td>
+      <td style="text-align:left">Farm dorayaki, gadget, gem</td>
       <td style="text-align:left"><code>catwork</code>  <code>catw</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>marry</code>
       </td>
-      <td style="text-align:left">C&#x1B0;&#x1EDB;i ng&#x1B0;&#x1EDD;i ch&#x1A1;i kh&#xE1;c, c&#xF9;ng nhau
-        chinh chi&#x1EBF;n t&#xED;ch l&#x169;y love point v&#xE0; nh&#x1EAD;n bonus</td>
+      <td style="text-align:left">Marry and fight together, collect love point and earn bonus rewards</td>
       <td
       style="text-align:left">
         <p><code>cat marry</code>
@@ -217,7 +210,7 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>divorce</code>
       </td>
-      <td style="text-align:left">L&#x1EC7;nh g&#xE2;y ra &#xE1;c m&#x1ED9;ng</td>
+      <td style="text-align:left">Divorce</td>
       <td style="text-align:left"><code>cat divorce</code>
       </td>
     </tr>
@@ -226,7 +219,7 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
 
 ## Gambles
 
-Chơi game với bot hoặc người chơi khác \(PvP\) sử dụng catnip
+Play gamble games with bot and other users \(PvP\) using catnip
 
 <table>
   <thead>
@@ -251,7 +244,7 @@ Chơi game với bot hoặc người chơi khác \(PvP\) sử dụng catnip
     <tr>
       <td style="text-align:left"><code>baucua</code>
       </td>
-      <td style="text-align:left">B&#x1EA7;u cua</td>
+      <td style="text-align:left">A traditional gamble: Baucua</td>
       <td style="text-align:left">
         <p><code>cat baucua</code>
         </p>
@@ -262,7 +255,7 @@ Chơi game với bot hoặc người chơi khác \(PvP\) sử dụng catnip
     <tr>
       <td style="text-align:left"><code>blackjack</code>
       </td>
-      <td style="text-align:left">Blackjack</td>
+      <td style="text-align:left">Play blackjack with your friends</td>
       <td style="text-align:left">
         <p><code>cat blackjack</code>
         </p>
@@ -298,7 +291,7 @@ Chơi game với bot hoặc người chơi khác \(PvP\) sử dụng catnip
     <tr>
       <td style="text-align:left"><code>lotto</code>
       </td>
-      <td style="text-align:left">Mua x&#x1ED5; s&#x1ED1;</td>
+      <td style="text-align:left">Buy tickets and win jackpot</td>
       <td style="text-align:left">
         <p><code>cat lotto</code>
         </p>
@@ -316,7 +309,7 @@ Chơi game với bot hoặc người chơi khác \(PvP\) sử dụng catnip
 
 ### Economy
 
-Các lệnh liên quan đến catnip
+Doreamon's catnip currency system used for gamble games.
 
 <table>
   <thead>
@@ -330,20 +323,18 @@ Các lệnh liên quan đến catnip
     <tr>
       <td style="text-align:left"><code>give</code>
       </td>
-      <td style="text-align:left">Chuy&#x1EC3;n nip qua cho ng&#x1B0;&#x1EDD;i d&#xF9;ng kh&#xE1;c</td>
-      <td
-      style="text-align:left">
+      <td style="text-align:left">Give catnip to other user</td>
+      <td style="text-align:left">
         <p><code>catgivenip</code>
         </p>
         <p><code>catgn</code>
         </p>
-        </td>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>daily</code>
       </td>
-      <td style="text-align:left">&#x110;i&#x1EC3;m danh m&#x1ED7;i 12 gi&#x1EDD; &#x111;&#x1EC3; nh&#x1EAD;n
-        th&#x1B0;&#x1EDF;ng</td>
+      <td style="text-align:left">Get daily reward every 12 hours</td>
       <td style="text-align:left">
         <p><code>catdaily</code>
         </p>
@@ -354,7 +345,7 @@ Các lệnh liên quan đến catnip
     <tr>
       <td style="text-align:left"><code>lixi</code>
       </td>
-      <td style="text-align:left">L&#xEC; x&#xEC;</td>
+      <td style="text-align:left">Give and take catnip randomly</td>
       <td style="text-align:left">
         <p><code>catlixi</code>
         </p>
@@ -365,23 +356,22 @@ Các lệnh liên quan đến catnip
     <tr>
       <td style="text-align:left"><code>nip</code>
       </td>
-      <td style="text-align:left">Ki&#x1EC3;m tra nip c&#x1EE7;a b&#x1EA1;n</td>
+      <td style="text-align:left">Check your balance</td>
       <td style="text-align:left"><code>catnip</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>task</code>
       </td>
-      <td style="text-align:left">Ho&#xE0;n th&#xE0;nh nhi&#x1EC7;m v&#x1EE5; &#x111;&#x1EC3; nh&#x1EAD;n
-        th&#x1B0;&#x1EDF;ng, h&#x1EB7;c t&#x1EA1;o nhi&#x1EC7;m v&#x1EE5; cho c&#xE1;c
-        giveaway</td>
+      <td style="text-align:left">Finish assigned tasks and get rewards or custom your task to setup Conditional
+        Giveaways</td>
       <td style="text-align:left"><code>cattask</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>transfer</code>
       </td>
-      <td style="text-align:left">Chuy&#x1EC3;n &#x111;&#x1ED3;i catnip &lt;=&gt; dorayaki</td>
+      <td style="text-align:left">Exchange catnip and dorayaki</td>
       <td style="text-align:left">
         <p><code>cattransfer</code>
         </p>
@@ -396,24 +386,24 @@ Các lệnh liên quan đến catnip
 
 ### **Language & Prefix**
 
-* `language` Cài đặt ngôn ngữ cho tính năng text-to-speech \(`speak`\) Cũng như ngôn ngữ của Bot.
-* `prefix` Thay đổi prefix của cat trên server bạn.
+* `language` Setup bot language for text-to-speech command \(`speak`\) and bot response \(if language supported\)
+* `prefix` Custom bot prefix
 
 ### **Feature Channels**
 
-Biến channel của bạn trở nên thú vị và nhiều tính năng hơn.
+Make your channels become more powerful and interesting
 
-Lệnh `channel` và các lệnh con:
+Command `channel` with subcommands:
 
-* `confession` - Biến 1 channel bạn muốn thành một confession với key, thành viên server sẽ DM bot để gửi confess. Mọi confess sẽ được ẩn danh!
-* `confessionpending` - Thiết lập pending confessions
-* `counting` - Thiết lập channel đếm số
-* `onewordstory` - Thiết lập one-word channel
-* `twowordstory` - Thiết lập two-word channel
-* `wordwordchain` - Thiết lập kênh nối chữ. eg: loi chao - chao hoi - hoi han...
-* `charwordchain` - thiết lập kênh nối từ. eg: hello - object - tea...
-* `info` - kiểm tra thông tin.
-* `reset` - reset cacif đặt của 1 kênh.
+* `confession` - setup channel with a key, members will DM bot to confess. Everything is anynomous!
+* `confessionpending` - pending confessions go here
+* `counting` - setup counting channel
+* `onewordstory` - setup one-word channel
+* `twowordstory` - setup two-word channel
+* `wordwordchain` - setup word-wordchain channel. eg: loi chao - chao hoi - hoi han...
+* `charwordchain` - setup character-wordchain channel. eg: hello - object - tea...
+* `info` - check channel info
+* `reset` - reset channel to default
 
 ### **Temp Voice Channels**
 
