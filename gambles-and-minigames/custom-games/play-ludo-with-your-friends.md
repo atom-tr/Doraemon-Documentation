@@ -6,6 +6,8 @@ description: >-
 
 # Play ludo with your friends
 
+### Details
+
 Command: ludo
 
 {% hint style="info" %}
@@ -13,6 +15,19 @@ Use `cathelp ludo [subcommand]` for more details
 {% endhint %}
 
 Subcommands (11): `info`, `join`, `list`, `mine`, `new`, `dice`, `votekick`, `leave`, `ready`, `setting`, `unready`
+
+### Subcommand details.
+
+| Subcommand | Details                                                                                                                                                                                                                                                                                                                                                                   | command                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| info       | Check game info by code                                                                                                                                                                                                                                                                                                                                                   | cataw info \<code>            |
+| join       | Join game                                                                                                                                                                                                                                                                                                                                                                 | cataw join \<code>            |
+| list       | Get availables games                                                                                                                                                                                                                                                                                                                                                      | cataw list                    |
+| mine       | Check your current game                                                                                                                                                                                                                                                                                                                                                   | cataw mine                    |
+| new        | Create new game                                                                                                                                                                                                                                                                                                                                                           | cataw new                     |
+| setting    | <p>Change your hosting game settings. </p><p>Fields: </p><p><code>impostor</code>, </p><p><code>confirmEjected</code>, </p><p><code>totalTasks</code>, </p><p><code>voteTime</code>, </p><p><code>killCooldown</code>, </p><p><code>emergencyCooldown</code>, </p><p><code>maxCalls</code>, </p><p><code>visionRate</code> (max: 100).</p><p> Value must be a number.</p> | cataw \<option> \<value(int)> |
+| start      | Start your hosting game                                                                                                                                                                                                                                                                                                                                                   | cataw start                   |
+| leave      | Leave game                                                                                                                                                                                                                                                                                                                                                                | cataw leave                   |
 
 | Sub-cmd  | Details                                                          | Aliases       | Full Command                                                                                                                      |
 | -------- | ---------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
