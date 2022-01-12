@@ -41,7 +41,7 @@ Make sure you turn **Allow direct messages from server members** on in **Privacy
 cataw new
 ```
 
-![cataw new](../../.gitbook/assets/vi\_cataw\_new.png)
+![cataw new](broken-reference)
 
 #### Step 2 (option): Change your hosting game settings
 
