@@ -77,13 +77,20 @@ Each member will have a ramdom role of this game. With each role is each list of
 
 {% tabs %}
 {% tab title="Impostor" %}
-
+`NEXT` or `BACK` for walk to another room\
+`REPORT` if have a dead body in room\
+`TASK`: ...\
+`SABOTAGE`: Destroy something\
+`KILL`: Kill someone in the room\
+`TELEPORT`: Teleport to the opposite room
 
 ![](../../.gitbook/assets/en\_cataw\_impostor.png)
 {% endtab %}
 
 {% tab title="Crewmate" %}
-
+`NEXT` or `BACK` for walk to another room\
+`REPORT` if have a dead body in room\
+`TASK`: ...
 
 ![](../../.gitbook/assets/en\_cataw\_crewmate.png)
 {% endtab %}
