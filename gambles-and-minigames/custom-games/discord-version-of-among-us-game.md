@@ -108,3 +108,7 @@ You need to complete all task or find out all Impostor in this game
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+Join a voice channel for more interesting when you guys find Impostor
+{% endhint %}
+
