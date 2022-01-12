@@ -29,6 +29,10 @@ Use `cathelp amongwumpii [subcommand]` for more details
 | start      | Start your hosting game                                                                                                                                                                                                                                                                                                                                                   | cataw start                   |
 | leave      | Leave game                                                                                                                                                                                                                                                                                                                                                                | cataw leave                   |
 
+{% hint style="warning" %}
+Make sure you turn **Allow direct messages from server members** on. Doraemon need it for send you DMs.
+{% endhint %}
+
 ### Create a game step by step
 
 #### Step 1: Create new game
