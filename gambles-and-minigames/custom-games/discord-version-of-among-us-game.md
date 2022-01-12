@@ -77,6 +77,12 @@ Each member will have a ramdom role of this game. With each role is each list of
 
 {% tabs %}
 {% tab title="Impostor" %}
+#### Role
+
+Kill Crewmate or make them can not complete all their task
+
+#### Command
+
 `NEXT` or `BACK` for walk to another room\
 `REPORT` if have a dead body in room\
 `TASK`: ...\
@@ -88,9 +94,15 @@ Each member will have a ramdom role of this game. With each role is each list of
 {% endtab %}
 
 {% tab title="Crewmate" %}
+#### Role
+
+You need to complete all task or find out all Impostor in this game
+
+#### Command
+
 `NEXT` or `BACK` for walk to another room\
 `REPORT` if have a dead body in room\
-`TASK`: ...
+`TASK`: Do your task in the room
 
 ![](../../.gitbook/assets/en\_cataw\_crewmate.png)
 {% endtab %}
