@@ -6,7 +6,7 @@ description: >-
 
 # Play ludo with your friends
 
-### Details
+## Details
 
 Command: ludo
 
@@ -16,7 +16,7 @@ Use `cathelp ludo [subcommand]` for more details
 
 Subcommands (11): `info`, `join`, `list`, `mine`, `new`, `dice`, `votekick`, `leave`, `ready`, `setting`, `unready`
 
-### Subcommand details.
+## Subcommand details.
 
 | Subcommand | Details                                                          | Aliases       | Full Command                                                                                                                      |
 | ---------- | ---------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------- |

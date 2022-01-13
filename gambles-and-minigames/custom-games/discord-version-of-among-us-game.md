@@ -4,7 +4,7 @@ description: Among Wumpii game, a light custom of Among Us for discord.
 
 # Discord version of Among us game
 
-### Details
+## Details
 
 Command `amongwumpii` or `aw`.&#x20;
 
@@ -16,7 +16,7 @@ Subcommands (8): `info`, `join`, `list`, `mine`, `new`, `setting`, `start`, `lea
 Use `cathelp amongwumpii [subcommand]` for more details
 {% endhint %}
 
-### Subcommand informations.
+## Subcommand informations.
 
 | Subcommand | Details                                                                                                                                                                                                                                                                                                                                                                   | Aliases | command                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------- |
@@ -33,9 +33,9 @@ Use `cathelp amongwumpii [subcommand]` for more details
 Make sure you turn **Allow direct messages from server members** on in **Privacy Settings**. Doraemon need it for send you DMs.
 {% endhint %}
 
-### Create a game step by step
+## Get started
 
-#### Step 1: Create new game
+### Step 1: Create new game
 
 ```
 cataw new
@@ -43,7 +43,7 @@ cataw new
 
 ![cataw new](<../../.gitbook/assets/en\_cataw\_new (1).png>)
 
-#### Step 2 (option): Change your hosting game settings
+### Step 2 (option): Change your hosting game settings
 
 Available settings: `impostor`, `confirmEjected`, `totalTasks`, `voteTime`, `killCooldown`, `emergencyCooldown`, `maxCalls`, `visionRate` (max: 100). **Value must be a number.** For example, i set number of impostor in room to 5:
 
@@ -57,7 +57,7 @@ cataw setting impostor 5
 Number of impostor must be higher than Crewmate
 {% endhint %}
 
-#### Step 3: Send friend room code
+### Step 3: Send friend room code
 
 Another user can join your game with command:
 
@@ -65,7 +65,7 @@ Another user can join your game with command:
 cataw join 5VNS
 ```
 
-#### Step 4: Start game
+### Step 4: Start game
 
 ```
 cataw start
@@ -75,7 +75,7 @@ or just `cataw s`
 
 ![cataw s](../../.gitbook/assets/en\_cataw\_s.png)
 
-#### Step 5: Each member check your own DMs to play
+### Step 5: Each member check your own DMs to play
 
 Each member will have a ramdom role of this game. With each role is each list of command. Check DMs for informations
 
