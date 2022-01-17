@@ -15,7 +15,7 @@
 
 ## Battle RPG
 
-* [Getting Started...](battle-rpg/page-3.md)
+* [Getting Started...](battle-rpg/getting-started....md)
 
 ## Gambles & Minigames
 
