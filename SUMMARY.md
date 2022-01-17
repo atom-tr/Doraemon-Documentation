@@ -12,7 +12,8 @@
 * [Confessions](community-utility/confessions/README.md)
   * [Get started](community-utility/confessions/get-started.md)
 * [Temp Voice Channels](community-utility/temp-voice-channels.md)
-* [Giveaways](community-utility/giveaways.md)
+* [Giveaways](community-utility/giveaways/README.md)
+  * [Giveaways có điều kiện](community-utility/giveaways/giveaways-co-dieu-kien.md)
 * [Level](community-utility/level.md)
 
 ## Battle RPG
