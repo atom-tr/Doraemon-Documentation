@@ -1,3 +1,7 @@
+---
+description: Khiến các channel trong server bạn trở nên thú vị và nhiều tính năng
+---
+
 # Feature Channels
 
 
