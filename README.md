@@ -12,11 +12,11 @@ Here you are, some useful links:
 
 ### Commands
 
-Some commands have its subcommands, if so the syntax will be: `cat [command] [subcommand] [arguments]`
+Một số lệnh (command) sẽ có những lệnh con, khi đó câu lệnh đầy đủ sẽ như sau: `cat[command] [subcommand] [arguments]`
 
 ### Syntax:
 
-Before anything, we should go over the basics of how to read Yui's command prompts and Syntax
+Before anything, we should go over the basics of how to read Doraemon's command prompts and Syntax
 
 {% hint style="danger" %}
 Do not type: **< >, {}, \[ ], or |** in your commands, these are only placeholders!
@@ -30,5 +30,5 @@ Do not type: **< >, {}, \[ ], or |** in your commands, these are only placeholde
 ## Supports
 
 {% hint style="info" %}
-If you need any supports, join [**Cat Server**](https://discord.gg/gYaXteY)
+Nếu bạn có bất cứ thắc mắc hay cần hỗ trợ, tham gia [**Cat Server**](https://discord.gg/gYaXteY)
 {% endhint %}
