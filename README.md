@@ -10,22 +10,22 @@ Here you are, some useful links:
 * [**Support Channel**](https://discord.gg/9kfcFNt)
 * [**Vote Doraemon**](https://top.gg/bot/574812330760863744/vote)
 
+### Syntax
+
+Trước khi bắt đầu, chúng ta cần xem qua quy tắc của các câu lệnh mẫu trong bài viết này.
+
+{% hint style="danger" %}
+Các kí tự: **< >, {}, \[ ], or |** ở các command mẫu trên trang này chỉ dùng để đánh dấu các tham số của các lệnh. Khi bạn nhập lệnh, không kèm theo các ký tự này.
+{% endhint %}
+
 ### Commands
 
 Một số lệnh (command) sẽ có những lệnh con, khi đó câu lệnh đầy đủ sẽ như sau: `cat[command] [subcommand] [arguments]`
 
-### Syntax:
-
-Before anything, we should go over the basics of how to read Doraemon's command prompts and Syntax
-
-{% hint style="danger" %}
-Do not type: **< >, {}, \[ ], or |** in your commands, these are only placeholders!
-{% endhint %}
-
 ### **Language & Prefix**
 
-* `language` Setup bot language for text-to-speech command (`speak`) and bot response (if language supported)
-* `prefix` Custom bot prefix
+* `language`: Giúp cài đặt ngôn ngữ bot - là ngôn ngữ bot sẽ dùng với lệnh (`speak`) và ngôn ngữ sẽ reponse bạn
+* `prefix`: Custom bot prefix - Bạn có thể thay đổi prefix của bot để phù hợp hơn với quy hoạch server của bạn
 
 ## Supports
 
