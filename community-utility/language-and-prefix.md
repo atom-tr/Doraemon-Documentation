@@ -1,6 +1,6 @@
 # Language & Prefix
 
-## Language
+## Ngôn ngữ
 
 - Command: `language` - Giúp cài đặt ngôn ngữ bot - là ngôn ngữ bot sẽ dùng với lệnh (`speak`) và ngôn ngữ sẽ reponse bạn
 - Aliases: `lg`
