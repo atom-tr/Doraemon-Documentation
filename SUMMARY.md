@@ -40,6 +40,6 @@
 
 ## Others
 
-* [GIFs](others/page-5.md)
+* [GIFs](others/gifs.md)
 * [Media](others/media.md)
 * [Fun & Others](others/fun-and-others.md)
