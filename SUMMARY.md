@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Getting Started...](README.md)
-* [FAQ - Guild](untitled.md)
+* [FAQ - Guild](faq-guild.md)
 
 ## Community Utility
 
