@@ -1,22 +1,22 @@
 # FAQ - Guild
 
-## How do I create the pending confession channel?
+## Làm cách nào để duyệt confession?
 
-Type the command `catcn cfsp` in the channel that you want to setup.
+Bạn có thể tạo một channel để duyệt confession bằng lệnh `catcn cfsp`.
 
 {% hint style="info" %}
-_Note: This command is only available for **Guild Premium**_
+_Note: Lệnh này chỉ có thể sẻ dụng khi bạn là **Guild Premium**_
 {% endhint %}
 
-## As a server owner, is there a way to know who wrote the anonymous confessions?
+## Tôi có thể biết danh tính của người gửi anonymous confessions hay không?
 
-**We do not provide any user information about confessions to any servers.**
+**Chúng tôi không cung cấp bất kỳ thông tin nào về người gửi confession cho bất kì ai hay server nào.**
 
-If you need help with reporting some **serious** cases to discord, we can handle that!
+Nếu bạn cần report một vấn đề **nghiêm trọng** tới Discord, chúng tôi có thể giúp bạn!
 
-Btw, you can upgrade to **Guild Premium** to access Pending channel, where you can decide which one will be posted on confession channel.
+Btw, bạn có thể upgrade lên **Guild Premium** để sử dụng Pending channel, ở đây bạn có thể quyết định confession nào có thể được lên channel và ban user gửi confession.
 
-## How do I make a channel and assign it for word story
+## Cách tạo một channel nối chữ
 
 See `cathelp channel` and setup your channel, for example: `catchannel ows`
 
@@ -24,10 +24,10 @@ See `cathelp channel` and setup your channel, for example: `catchannel ows`
 Use **`cathelp channel`** for more info
 {% endhint %}
 
-## How do I reset the counting channel?
+## Cách reset counting channel?
 
 `catcn reset`
 
-## Is there any purge or nuke command?
+## Lệnh xoá hàng loạt tin nhắn?
 
 `catclean {number}`
