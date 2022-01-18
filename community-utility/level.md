@@ -1,9 +1,14 @@
 # Level
 
-Chat xp, leveling, rank, role rewards custom for your server
+Chat, nhận kinh nghiệm, lên cấp, xếp hạng và phần thưởng
+{% hint style="info" %}
+Sử dụng `cathelp level [lệnh con]` để xem chi tiết hơn
+{% endhint %}
 
 - Command `level`
+- Aliases `lvl`
 - Subcommands (14): `info`, `leaderboard`, `rank`, `rewards`, `addxp`, `disable`, `enable`, `message`, `noxp`, `reset`, `reward`, `setxp`, `toggleremoverole`, `update`
+  
   - `addxp`: Cộng/trừ xp của các thành viên
   - `disable`: Tắt chức năng lên cấp cho server
   - `enable`: Bật chức năng lên cấp cho server
@@ -18,3 +23,7 @@ Chat xp, leveling, rank, role rewards custom for your server
   - `leaderboard`: Mở bảng xếp hạng
   - `rank`: Kiểm tra xếp hạng
   - `rewards`: Xem phần thưởng
+
+```s
+catlvl [subcommand] [arguments]
+```
