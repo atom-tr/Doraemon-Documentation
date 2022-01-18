@@ -1,7 +1,6 @@
 ---
 description: >-
-  Create ludo game with bet and play with your friends. When everyone's ready,
-  the game starts!
+  Không biết Ludo là gì thì vào đây làm gì vậy! Nghỉ đi bạn oi!
 ---
 
 # Play ludo with your friends
@@ -11,7 +10,7 @@ description: >-
 Command: ludo
 
 {% hint style="info" %}
-Use `cathelp ludo [subcommand]` for more details
+Gõ `cathelp ludo [subcommand]` để biết thêm chi tiết!
 {% endhint %}
 
 Subcommands (11): `info`, `join`, `list`, `mine`, `new`, `dice`, `votekick`, `leave`, `ready`, `setting`, `unready`
@@ -20,14 +19,14 @@ Subcommands (11): `info`, `join`, `list`, `mine`, `new`, `dice`, `votekick`, `le
 
 | Subcommand | Details                                                          | Aliases       | Full Command                                                                                                                      |
 | ---------- | ---------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| info       | Check ludo game info                                             | `i`           | `catld infor <id>`                                                                                                                |
-| join       | Join a game                                                      | `in`          | `catld join <id>`                                                                                                                 |
-| list       | See list ludo games in server                                    | `ls`          | `catld list`                                                                                                                      |
+| info       | Kiểm tra thông tin phòng                                         | `i`           | `catld infor <id>`                                                                                                                |
+| join       | Tham gia phòng có sẵn                                            | `in`          | `catld join <id>`                                                                                                                 |
+| list       | Lệt kê các phòng ludo hiện trong server                          | `ls`          | `catld list`                                                                                                                      |
 | mine       | See your ludo games in server                                    | `me`          | `catld mine`                                                                                                                      |
-| new        | Create a ludo game with bet                                      | `n`           | `catld new`                                                                                                                       |
+| new        | Tạo phòng mới với mức cược                                       | `n`           | `catld new`                                                                                                                       |
 | dice       | Dice dice dice                                                   | `d`           | `catld dice`                                                                                                                      |
-| votekick   | Vote kick a user from a ludo game. User kicked can't not re-join | `vote` `kick` | `catld votekick @user`                                                                                                            |
-| leave      | Leave a ludo game                                                | `out` `quit`  | `catld leave <id>`                                                                                                                |
+| votekick   | Vote để đá một ai đó ra khỏi phòng, người này không thể tham gia lại | `vote` `kick` | `catld votekick @user`                                                                                                            |
+| leave      | Hành động sáng suốt                                              | `out` `quit`  | `catld leave <id>`                                                                                                                |
 | ready      | Ready to play a ludo game                                        | `rd` `ss`     | `catld ready`                                                                                                                     |
 | setting    | Setting knockbet & showdetail                                    | `set`         | <p><code>catld set &#x3C;id> knockbet &#x3C;value></code></p><p></p><p><code>catld set &#x3C;id> showdetail true/false</code></p> |
 | unready    | Unready                                                          | `urd`         | `catld unready`                                                                                                                   |
