@@ -13,6 +13,7 @@
   * [Get started](community-utility/confessions/get-started.md)
 * [Temp Voice Channels](community-utility/temp-voice-channels.md)
 * [Giveaways](community-utility/giveaways/README.md)
+  * [Task](community-utility/giveaways/task.md)
   * [Giveaways có điều kiện](community-utility/giveaways/giveaways-co-dieu-kien.md)
 * [Level](community-utility/level.md)
 
