@@ -119,6 +119,6 @@ You need to complete all task or find out all Impostor in this game
 {% endtabs %}
 
 {% hint style="info" %}
-Join a voice channel for more interesting when you guys find Impostor
+Tất cả người chơi có thể join chung một phòng voice để cùng chơi game. Như vậy việc tranh luận ai là Impostor sẽ sôi động hơn.
 {% endhint %}
 
