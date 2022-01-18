@@ -16,7 +16,7 @@ Some commands have its subcommands, if so the syntax will be: `cat [command] [su
 
 ### Syntax:
 
-Before anything, we should go over the basics of how to read Yui's command prompts and Syntax
+Before anything, we should go over the basics of how to read Doraemon's command prompts and Syntax
 
 {% hint style="danger" %}
 Do not type: **< >, {}, \[ ], or |** in your commands, these are only placeholders!
