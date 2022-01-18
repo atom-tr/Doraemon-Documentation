@@ -1,17 +1,22 @@
 # Giveaways
 
-Create, add requirements, end, reroll, show list giveaways. With task types:
+## Details
 
-* `send messages | has role | join server (time) | stay in voice channels | mention users | be mentioned`
+Tổ chức giveaway có điều kiện
 
-Command `giveaway` with subcommands:
+{% hint style="info" %}
+Sử dụng `cathelp giveaway [lệnh con]` để xem chi tiết hơn
+{% endhint %}
 
-`start` Create a giveaway. Tasks (requirement) can be attached
+- Command: `giveaway`
+- Aliases: `ga`
+- Các lệnh con (5):
+  - `start` Tạo và bắt đầu 1 giveaway mới. Để thêm điều kiện vào, bạn cần tạo nhiệm vụ (task) trước!
+  - `end` Kết thúc 1 giveaway
+  - `cancel` Hủy bỏ 1 giveaway
+  - `reroll` Tìm người thắng mới cho giveaway
+  - `list` Danh sách những giveaway đang diễn ra ở trong server hoặc là xem những điều kiện dựa vào tiêu đề của các giveaway
 
-`end` End giveaway before times up
+## Conditional Giveaways
 
-`cancel` Cancel a GA without finding the winner
-
-`reroll` Reroll a giveaway to find new winner
-
-`list` See list ongoing GAs in server
+Tạo 1 Giveaway với task. Các loại task có thể tạo: `send messages | has role | join server (time) | stay in voice channels | mention users | be mentioned`
