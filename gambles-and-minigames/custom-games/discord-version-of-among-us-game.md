@@ -86,16 +86,16 @@ Mỗi người chơi sẽ được ramdom với một role khác nhau. Các lệ
 
 #### Role
 
-Kill Crewmate or make them can not complete all their task
+Tấn công Crewmate, bằng bất cứ giá nào hãy khiến họ không thể hoàn thành toàn bộ task.
 
 #### Command
 
-`NEXT` or `BACK` for walk to another room\
-`REPORT` if have a dead body in room\
+`NEXT` or `BACK` di chuyển tới phòng bên cạnh\
+`REPORT` lệnh có thể sử dụng khi bạn phát hiện xác ở trong room\
 `TASK`: ...\
-`SABOTAGE`: Destroy something\
-`KILL`: Kill someone in the room\
-`TELEPORT`: Teleport to the opposite room
+`SABOTAGE`: Phá huỷ\
+`KILL`: Tấn công Crewmate chung phòng\
+`TELEPORT`: Dịch chuyển tới phòng đối diện
 
 ![](../../.gitbook/assets/en\_cataw\_impostor.png)
 
@@ -105,13 +105,13 @@ Kill Crewmate or make them can not complete all their task
 
 #### Role
 
-You need to complete all task or find out all Impostor in this game
+Hoàn thành tất cả các task hoặc tìm ra được toàm bộ Impostor đang trà trộn.
 
 #### Command
 
-`NEXT` or `BACK` for walk to another room\
-`REPORT` if have a dead body in room\
-`TASK`: Do your task in the room
+`NEXT` or `BACK` di chuyển qua phòng bên cạnh\
+`REPORT` lệnh có thể sử dụng khi bạn phát hiện xác ở trong room\
+`TASK`: Hoàn thành task của crewmate
 
 ![](../../.gitbook/assets/en\_cataw\_crewmate.png)
 {% endtab %}
