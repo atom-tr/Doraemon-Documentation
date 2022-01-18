@@ -54,7 +54,7 @@ cataw setting impostor 5
 ![cataw setting impostor](../../.gitbook/assets/en\_cataw\_setting\_1.png)
 
 {% hint style="warning" %}
-Number of impostor must be higher than Crewmate
+Number of Crewmate must be higher than impostor
 {% endhint %}
 
 ### Step 3: Send friend room code
