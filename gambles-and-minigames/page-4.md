@@ -60,7 +60,9 @@ catcf all 3t
 
 ## Đoán số
 
-- Command: `guessthenumber` - Đoán số! Sẽ có ba cấp độ gợi ý xuất hiện một cách ngẫu nhiên. Khi chế độ tự động (auto) được bật, bạn chỉ cần nhập số muốn đoán.
+Đoán số! Sẽ có ba cấp độ gợi ý xuất hiện một cách ngẫu nhiên. Khi chế độ tự động (auto) được bật, bạn chỉ cần nhập số muốn đoán.
+
+- Command: `guessthenumber`
 - Aliases: `gtn`
 - Sub-command:
   - `catgtn [số]` - Đoán số
