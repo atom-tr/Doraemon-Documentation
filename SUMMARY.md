@@ -33,7 +33,7 @@
 ## Gambles & Minigames
 
 * [Economy](gambles-and-minigames/economy.md)
-* [Gambles](gambles-and-minigames/page-4.md)
+* [Gambles](gambles-and-minigames/gambles.md)
 * [Custom games](gambles-and-minigames/custom-games/README.md)
   * [Play ludo with your friends](gambles-and-minigames/custom-games/play-ludo-with-your-friends.md)
   * [Discord version of Among us game](gambles-and-minigames/custom-games/discord-version-of-among-us-game.md)
