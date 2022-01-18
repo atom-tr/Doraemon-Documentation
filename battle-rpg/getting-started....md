@@ -1,19 +1,19 @@
 # Getting Started...
 
-You don't know how to start with Doraemon Battle game? type `cattutorial` or simpler way is follow my guilds.
+Để biết làm cách nào bắt đầu chơi Doraemon Battle, gõ `cattutorial` hoặc cách đơn giản hơn là hãy bắt đầu với những hướng dẫn sau đây.
 
-### Start
+## Start
 
-Getting start with `cattutorial` and get a **Starter Pack (item 10)**
+Bắt đầu với lệnh `cattutorial` để nhận **Starter Pack (item 10)**
 
-```
+```sh
 cattutorial
 ```
 
 ## **Inventory**
 
-Check out your inventory `catinv` , an item 10 (**Starter Pack**) will be there. Use command `catuse <item-id>`, in this case we type:
+Hãy kiểm tra kho đồ của bạn `catinv` , bạn sẽ thấy một (**Starter Pack**) đã được thêm vào. Sử dụng vật phẩm bạn đang có bằng lệnh `catuse <item-id>`, ở đây bạn muốn mở  Starter Pack:
 
-```
+```sh
 catuse 10
 ```
