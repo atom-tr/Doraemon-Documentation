@@ -183,7 +183,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > ![🕰️](https://canary.discord.com/assets/e75125914de0c65e43aab08786e23b06.svg) Magic Clock
 >
 > **ID cố định**: `5` \
-> ``**Mô tả**: \
+> **Mô tả**: \
 > **Loại**: ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.webp?size=40\&quality=lossless) \
 > **Kĩ năng**: **30%** ![:TURN\_STEAL:](https://cdn.discordapp.com/emojis/701257195639144578.webp?size=40\&quality=lossless) `Cướp lấy lượt đi tiếp theo của đối thủ với tỉ lệ 30/40/50/60/75%`&#x20;
 >
