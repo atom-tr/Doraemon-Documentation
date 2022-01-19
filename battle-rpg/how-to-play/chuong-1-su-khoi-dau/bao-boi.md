@@ -141,7 +141,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 
 {% tabs %}
 {% tab title="Mini Tank" %}
-**Mini Tank:** Như mô tả của nó, chỉ là một bảo bối nhỏ loại **QN** khá dễ kiếm, nhưng mang lại cho bạn khả năng tăng sát thương mỗi 4 turn. Nếu bạn có thể có cho mình 256 mini tank 1\*, bạn có thể dung luyện lên 5\* để có được kỹ năng: Tăng `45% * 90% = 40.5%` Sát thương cơ bản cho đòn đánh tiếp theo.
+**![:tank390:](https://cdn.discordapp.com/emojis/705121155195076628.webp?size=20\&quality=lossless) Mini Tank:** Như mô tả của nó, chỉ là một bảo bối nhỏ loại **QN** khá dễ kiếm, nhưng mang lại cho bạn khả năng tăng sát thương mỗi 4 turn. Nếu bạn có thể có cho mình 256 mini tank 1\*, bạn có thể dung luyện lên 5\* để có được kỹ năng: Tăng `45% * 90% = 40.5%` Sát thương cơ bản cho đòn đánh tiếp theo.
 
 <hr>
 
@@ -169,7 +169,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 {% endtab %}
 
 {% tab title="📷 Camera" %}
-**Camera:** Sở hữu kỹ năng cực kỳ hữu dụng cho cả PVP và PVE, hãy thử tưởng tượng bạn copy thành công kỹ năng hạng **`SS`** của Boss mà bình thường bạn không bao giờ được sở hữu và sử dụng nó. ^^.
+**📷 Camera:** Sở hữu kỹ năng cực kỳ hữu dụng cho cả PVP và PVE, hãy thử tưởng tượng bạn copy thành công kỹ năng hạng **`SS`** của Boss mà bình thường bạn không bao giờ được sở hữu và sử dụng nó. ^^.
 
 <hr>
 
@@ -195,7 +195,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 {% endtab %}
 
 {% tab title="🕰️ Magic Clock" %}
-**Magic Clock:** Bảo bối với kỹ năng cướp lượt đi của đối thủ, giúp bạn nắm cho mình tỷ lệ thắng cao hơn khi có được 2 lượt đi liên tiếp
+**🕰️ Magic Clock:** Bảo bối với kỹ năng cướp lượt đi của đối thủ, giúp bạn nắm cho mình tỷ lệ thắng cao hơn khi có được 2 lượt đi liên tiếp
 
 <hr>
 
