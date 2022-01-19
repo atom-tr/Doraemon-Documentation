@@ -15,7 +15,7 @@ Doreamon's catnip currency system used for gamble games.
 
 ## Transfer your currency: ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=40\&quality=lossless) and ![:catnip:](https://cdn.discordapp.com/emojis/789781716834582529.webp?size=40\&quality=lossless)
 
-Tỷ lệ chuyển đổi: ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=40\&quality=lossless) **-> 100** ![:catnip:](https://cdn.discordapp.com/emojis/789781716834582529.webp?size=40\&quality=lossless) **-> 0.2** ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=40\&quality=lossless) \
+Tỷ lệ chuyển đổi: ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) **-> 100** ![:catnip:](https://cdn.discordapp.com/emojis/789781716834582529.webp?size=20\&quality=lossless) **-> 0.2** ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) \
 Dùng **d** để chuyển từ **dora** sang **nip** và dùng **n** để chuyển từ **nip** sang **dora**
 
 ### Usages
