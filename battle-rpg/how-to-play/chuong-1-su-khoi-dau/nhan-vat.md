@@ -64,7 +64,7 @@ Bằng lệnh này bạn có thể xem chi tiết chỉ số được cộng th�
 
 
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp)👾 Atom.'s Doramiga
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=30\&height=30)👾 Atom.'s Doramiga
 >
 > **ID**: `60` \
 > **Biệt danh**: ![:Doramiga:](https://cdn.discordapp.com/emojis/805656824601903124.webp?size=20\&quality=lossless) ![:Ki:](https://cdn.discordapp.com/emojis/815836431481438218.gif?size=20\&quality=lossless)![:ss:](https://cdn.discordapp.com/emojis/815836496124182539.gif?size=20\&quality=lossless) \

@@ -79,7 +79,7 @@ Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa l�
 
 
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp)👾 Atom.'s No.6 Suit
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=30\&height=30)👾 Atom.'s No.6 Suit
 >
 > **ID**: `861` \
 > **Biệt danh**: ![:SuitNo6:](https://cdn.discordapp.com/emojis/810055238315933726.webp?size=20\&quality=lossless) Poison-Pink Suit \
