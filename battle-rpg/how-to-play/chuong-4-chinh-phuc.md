@@ -21,7 +21,7 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 ### Thông tin Ải viễn chinh
 
 * Các ải có biểu tượng số lớn hơn bình thường sẽ tốn gấp đôi số lượng vé, nhưng phần thưởng sẽ giá trị hơn.
-* Một số ải chỉ dành cho Battle Premium User.
+* Một số ải chỉ dành cho **Battle Premium User**.
 
 {% tabs %}
 
@@ -112,6 +112,14 @@ Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [
 {% hint style="info" %}
 Ải viễn chinh sẽ reset về stage 1 hai lần / tháng (ngày 1 và 15 mỗi tháng)
 {% endhint %}
+
+### Làm sao để kiếm được vé 🎫?
+
+Bạn có 3 cách để kiếm được vé (🎫: item 17):
+
+1. Thực hiện vote cho BOT mỗi 12h
+2. Mua vé tại shop bằng điểm pre (Sẽ được tặng khi bạn mua pre 2 trở lên)
+3. Làm task tuần. Mỗi tuần sẽ có 1 task có phần thưởng là vé đi ải, bạn có thể kiểm tra task hiện tại bằng `cattask`
 
 ## **WorldBoss**
 
