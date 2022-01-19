@@ -23,29 +23,32 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 * Các ải có biểu tượng số lớn hơn bình thường sẽ tốn gấp đôi số lượng vé, nhưng phần thưởng sẽ giá trị hơn.
 * Một số ải chỉ dành cho Battle Premium User.
 
+{% tabs %}
+
+{% tab title="DOLLMANSTEIN" %}
 Map **TAFODADP**, `cata t` để xem thông tin map. Đây là ải viễn chinh dành cho những người chơi mới, level thấp.
 
-> ![cata d](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
+> ![cata t](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
-> Thế giới: **TAFODADP**&#x20;
+> Thế giới: **TAFODADP**
 >
 > Ải: `1/15` \
-> Các ải đã bỏ qua: `không có`&#x20;
+> Các ải đã bỏ qua: `không có`
 >
 > Viễn chinh **The Spirit Grotto** \
-> \- Vé: `1` ![🎫](https://canary.discord.com/assets/5e5ab6737c6e2b6a9aa7a1e7295d1b41.svg) \
-> \- Thưởng: `1000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=40\&quality=lossless) `x5`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=40\&quality=lossless) `x2`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=40\&quality=lossless) `x1`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=40\&quality=lossless) `x1`&#x20;
+> \- Vé: `1 🎫` \
+> \- Thưởng: `1000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x5`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=40\&quality=lossless) `x2`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=40\&quality=lossless) `x1`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=40\&quality=lossless) `x1`
 >
 > Chọn thế giới: `cata f [world] (-s stage)` \
 > Xem bản đồ: `cata [world]`
 >
-> ``[![](https://media.discordapp.net/attachments/698925345855897741/933346387674923018/map-3.png?width=225\&height=225)](https://cdn.discordapp.com/attachments/698925345855897741/933346387674923018/map-3.png)
+> ![TAFODADP](https://media.discordapp.net/attachments/698925345855897741/933346387674923018/map-3.png?width=225\&height=225)
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
 {% endhint %}
+{% endtab %}
 
-{% tabs %}
 {% tab title="DOLLMANSTEIN" %}
 Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
