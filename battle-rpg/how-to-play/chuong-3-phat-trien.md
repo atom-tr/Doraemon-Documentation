@@ -12,6 +12,7 @@ Sau khi đã tìm cho mình được trang bị phù hợp cũng như nhân vậ
 * Invite người khác vào team: `cattm i [user]`
 * Chuyển key trưởng nhóm cho người khác: `cattm tf [user]`
 * Đuổi một người ra khỏi team: `cattm k [user]`
+* Cùng đồng đội chinh phục bảng xếp hạng: `catfight team` | `catf tm`. Cả đội sẽ cùng nhận được exp khi bạn tham gia trận chiến.
 
 ## Các loại boss
 
