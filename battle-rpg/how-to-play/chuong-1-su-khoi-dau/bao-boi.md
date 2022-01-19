@@ -49,13 +49,13 @@ Lệnh để xem một bảo bối có trong game:
 
 > **BATTLE GADGET**
 >
-> ****![:gomu:](https://cdn.discordapp.com/emojis/818737775418540052.gif?size=40\&quality=lossless) **Gomu Gomu no M**
+> ![:gomu:](https://cdn.discordapp.com/emojis/818737775418540052.gif?size=25\&quality=lossless) **Gomu Gomu no M**
 >
 > **ID cố định**: `50` \
 > **Mô tả**: The Gomu Gomu no Mi is a Paramecia-type Devil Fruit that gives the user's body the properties of rubber, making the user a Rubber Human (ゴム人間 Gomu Ningen?). It was originally a treasure that Shanks and his crew took from an unspecified enemy, but was accidentally eaten by the series protagonist Monkey D. Luffy. In the second version of Romance Dawn, it originally belonged to Luffy's grandpa who took it from an unspecified enemy. -- Custom from Atom. - Images by mewiyev&#x20;
 >
-> **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.webp?size=40\&quality=lossless) \
-> **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.webp?size=40\&quality=lossless) `Không nhận 25/30/35/50/75% sát thương từ đối thủ trong 1 lượt` \
+> **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.webp?size=25\&quality=lossless) \
+> **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.webp?size=25\&quality=lossless) `Không nhận 25/30/35/50/75% sát thương từ đối thủ trong 1 lượt` \
 > **Tỉ lệ xuất hiện**: `0.05%` \
 > **Mana tiêu thụ**: `40` \
 > **Thời gian hồi chiêu**: `3` \
@@ -63,7 +63,7 @@ Lệnh để xem một bảo bối có trong game:
 > **Khả năng giao dịch**: `true` \
 > **Chỉ dành Premium**: `false` \
 > **Ra lò**: `true`\
-> ``Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `8`
+> ``Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=25\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=25\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=25\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=25\&quality=lossless) `8`
 >
 >
 
@@ -77,10 +77,10 @@ Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 >
 > **ID**: `250`&#x20;
 >
-> **Biệt danh**: ![:gomu:](https://cdn.discordapp.com/emojis/818737775418540052.gif?size=40\&quality=lossless) \
-> **Sao**: ![:2:](https://cdn.discordapp.com/emojis/685145358606532664.webp?size=40\&quality=lossless) \
-> **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.webp?size=40\&quality=lossless) \
-> **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.webp?size=40\&quality=lossless) `Không nhận 25/{30}/35/50/75% sát thương từ đối thủ trong 1 lượt` \
+> **Biệt danh**: ![:gomu:](https://cdn.discordapp.com/emojis/818737775418540052.gif?size=25\&quality=lossless) \
+> **Sao**: ![:2:](https://cdn.discordapp.com/emojis/685145358606532664.webp?size=25\&quality=lossless) \
+> **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.webp?size=25\&quality=lossless) \
+> **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.webp?size=25\&quality=lossless) `Không nhận 25/{30}/35/50/75% sát thương từ đối thủ trong 1 lượt` \
 > **Mana tiêu thụ**: `40` \
 > **Thời gian hồi chiêu**: `3` \
 > **Hạn sử dụng**: Vĩnh viễn \
@@ -88,7 +88,7 @@ Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 >
 > Sử dụng `cathelp gadget` để xem danh sách lệnh liên quan
 >
-> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `8`
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=25\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=25\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=25\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=25\&quality=lossless) `8`
 
 ![](https://images-ext-2.discordapp.net/external/qc\_rhCAg9wcQWGEjdg3htZJtQNbif0SnadkpsiNKyWg/https/media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=64\&height=64)
 {% endtab %}
@@ -131,12 +131,12 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > **BATTLE GADGET**\
 > ****
 >
-> ![:tank390:](https://cdn.discordapp.com/emojis/705121155195076628.webp?size=40\&quality=lossless) Mini Tank
+> ![:tank390:](https://cdn.discordapp.com/emojis/705121155195076628.webp?size=25\&quality=lossless) Mini Tank
 >
 > **ID cố định**: `11` \
 > **Mô tả**: small tank but big power \
-> **Loại**: ![:qn:](https://cdn.discordapp.com/emojis/693699122657493032.webp?size=40\&quality=lossless) \
-> **Kĩ năng**: **45%** ![:DMG\_TMP\_INC:](https://cdn.discordapp.com/emojis/700920498099322981.webp?size=40\&quality=lossless) `Tăng tạm thời 30/35/45/60/90% sát thương bản thân trong 1 lượt`&#x20;
+> **Loại**: ![:qn:](https://cdn.discordapp.com/emojis/693699122657493032.webp?size=25\&quality=lossless) \
+> **Kĩ năng**: **45%** ![:DMG\_TMP\_INC:](https://cdn.discordapp.com/emojis/700920498099322981.webp?size=25\&quality=lossless) `Tăng tạm thời 30/35/45/60/90% sát thương bản thân trong 1 lượt`&#x20;
 >
 > **Tỉ lệ xuất hiện**: `50%` \
 > **Mana tiêu thụ**: `40` \
@@ -146,7 +146,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > **Chỉ dành Premium**: `false` \
 > **Ra lò**: `true`
 >
-> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `5`[![Image](https://media.discordapp.net/attachments/704336314559889521/705121049246695465/tank390.png?width=64\&height=47)](https://cdn.discordapp.com/attachments/704336314559889521/705121049246695465/tank390.png)`5`
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=25\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=25\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=25\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=25\&quality=lossless) `5`[![Image](https://media.discordapp.net/attachments/704336314559889521/705121049246695465/tank390.png?width=64\&height=47)](https://cdn.discordapp.com/attachments/704336314559889521/705121049246695465/tank390.png)`5`
 {% endtab %}
 
 {% tab title="Camera" %}
@@ -158,8 +158,8 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 >
 > **ID cố định**: `14` \
 > **Mô tả**: \
-> **Loại**: ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.webp?size=40\&quality=lossless) \
-> **Kĩ năng**: **30%** ![:SKILL\_COPY:](https://cdn.discordapp.com/emojis/708716204663242762.webp?size=40\&quality=lossless) `Sao chép 01 kĩ năng của đối thủ và sử dụng nó trong 1 lượt với tỉ lệ 30/40/50/60/75%`&#x20;
+> **Loại**: ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.webp?size=25\&quality=lossless) \
+> **Kĩ năng**: **30%** ![:SKILL\_COPY:](https://cdn.discordapp.com/emojis/708716204663242762.webp?size=25\&quality=lossless) `Sao chép 01 kĩ năng của đối thủ và sử dụng nó trong 1 lượt với tỉ lệ 30/40/50/60/75%`&#x20;
 >
 > **Tỉ lệ xuất hiện**: `80%` \
 > **Mana tiêu thụ**: `25` \
@@ -169,7 +169,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > **Chỉ dành Premium**: `false` \
 > **Ra lò**: `true`
 >
-> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `5`
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=25\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=25\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=25\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=25\&quality=lossless) `5`
 {% endtab %}
 
 {% tab title="Magic Clock" %}
@@ -184,8 +184,8 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 >
 > **ID cố định**: `5` \
 > **Mô tả**: \
-> **Loại**: ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.webp?size=40\&quality=lossless) \
-> **Kĩ năng**: **30%** ![:TURN\_STEAL:](https://cdn.discordapp.com/emojis/701257195639144578.webp?size=40\&quality=lossless) `Cướp lấy lượt đi tiếp theo của đối thủ với tỉ lệ 30/40/50/60/75%`&#x20;
+> **Loại**: ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.webp?size=25\&quality=lossless) \
+> **Kĩ năng**: **30%** ![:TURN\_STEAL:](https://cdn.discordapp.com/emojis/701257195639144578.webp?size=25\&quality=lossless) `Cướp lấy lượt đi tiếp theo của đối thủ với tỉ lệ 30/40/50/60/75%`&#x20;
 >
 > **Tỉ lệ xuất hiện**: `80%` \
 > **Mana tiêu thụ**: `80` \
@@ -195,7 +195,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > **Chỉ dành Premium**: `false` \
 > **Ra lò**: `true`
 >
-> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `5`
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=25\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=25\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=25\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=25\&quality=lossless) `5`
 {% endtab %}
 {% endtabs %}
 
