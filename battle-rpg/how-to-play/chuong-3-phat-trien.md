@@ -4,6 +4,52 @@ description: Cùng bạn bè, đồng đội chơi để nhận thêm phần th�
 
 # Chương 3: Phát triển
 
+## Cường hoá trang bị
+
+Để cường hoá trang bị, bạn cần phải có Gem. Hãy kiểm tra kho gem của bạn bằng lệnh `catg`.
+
+### Chỉ số cơ bản
+
+#### Nhân vật
+
+Để nâng cấp chỉ số cơ bản của nhân vật, bạn chỉ có cách tăng cấp độ nhân vật đó, bằng cách spam cùng bạn bè.
+{% content-ref url="chuong-2-tham-ngan.md" %}
+
+#### Vũ khí
+
+Để nâng cấp chỉ số cơ bản của vũ khí, bạn cần Houtu (Gem 3). Mỗi cấp độ vũ khí sẽ cần một lượng Houtu để nâng cấp. Số lượng Houtu cần có thể tính bằng công thức: `Houtu = 3 ^ (Cấp độ vũ khí hiện tại)`.
+
+#### Bảo bối
+
+Chỉ số cơ bản của bảo bối chính là % của các kỹ năng. Khi nâng bảo bối lên các cấp sẽ nhận được mức % tương ứng. Để nâng cấp bảo bối, bạn cần 4 bảo bối cùng loại và cấp độ.
+
+### Chỉ số mở rộng
+
+Loại chỉ số này không tăng theo cấp độ của trang bị, mà cần gem để cường hoá.
+
+- ![attack](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1&size=20)`attack`: Chỉ số tấn công.
+- ![defense](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1&size=20)`defense`: Chỉ số phòng thủ.
+- ![luck](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1&size=20)`luck`: Chỉ số này giúp tăng tỷ lệ chí mạng.
+- ![wisdom](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1&size=20)`wisdom`: Chỉ số tốc độ, quyết định người đi trước.
+
+Loại gem tương ứng với các chỉ số này:
+
+- `attack`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698570646057255014.webp?size=20&quality=lossless)
+- `defense`: Azure Dragon ![Tiny Azure Dragon](https://cdn.discordapp.com/emojis/698566971549286462.webp?size=20&quality=lossless)
+- `luck`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698571667441451008.webp?size=20&quality=lossless)
+- `wisdom`: Blue Tortoise ![Tiny Blue Tortoise](https://cdn.discordapp.com/emojis/698566950229508138.webp?v=1&size=20&quality=lossless)
+
+Mỗi loại gem sẽ có 3 cấp: `Tiny` (`+2`) > `Flawless` (`+5`) > `Royal` (`+8`) > `Galaxy` (`+10`) - tương ứng số chỉ số cộng thêm
+Lệnh cường hoá: 
+
+```s
+catup [id trang bị] [id loại gem] [số lượng gem]
+```
+
+{% hint style="warning" %}
+Không giống Houtu khi cường hoá vũ khí, các loại gem trên không tăng thêm tỷ lệ khi bạn sử dụng số lượng lớn.
+{% endhint %}
+
 ## Đồng đội
 
 Sau khi đã tìm cho mình được trang bị phù hợp cũng như nhân vật yêu thích để sử dụng, hãy tìm cho mình những đồng đội mạnh mẽ để cùng nhau chinh phục các con boss khó nhằn:
