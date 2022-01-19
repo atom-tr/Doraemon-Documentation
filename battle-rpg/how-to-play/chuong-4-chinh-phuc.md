@@ -28,6 +28,17 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 {% tab title="DOLLMANSTEIN" %}
 Map **TAFODADP**, `cata t` để xem thông tin map. Đây là ải viễn chinh dành cho những người chơi mới, level thấp.
 
+<hr>
+
+{% hint style="waring" %}
+Map này dành cho những người mới / đổi nhân vật nên sẽ giới hạn level nhân vật của toàn team (Level 1-35).
+{% endhint %}
+
+{% endtab %}
+
+{% tab title="DOLLMANSTEIN - Premium" %}
+{% endhint %}
+
 > ![cata t](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
 > Thế giới: **TAFODADP**
@@ -52,6 +63,8 @@ Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [
 {% tab title="DOLLMANSTEIN" %}
 Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
+<hr>
+
 > ![cata d](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
 > Thế giới: **DOLLMANSTEIN**\
@@ -74,6 +87,8 @@ Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [
 
 {% tab title="Map Event" %}
 Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ xuất hiện trong một khoảng thời gian sự kiện.
+
+<hr>
 
 > ![cata x](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
