@@ -56,7 +56,7 @@ catgg i 50
 > **BATTLE GADGET**
 >
 >
-> ![:gomu:](https://cdn.discordapp.com/emojis/818737775418540052.gif?size=20\&quality=lossless) **Gomu Gomu no M**
+> ![:gomu:](https://cdn.discordapp.com/emojis/818737775418540052.gif?size=20\&quality=lossless) **Gomu Gomu no Mi**
 >
 > **ID cố định**: `50` \
 > **Mô tả**: The Gomu Gomu no Mi is a Paramecia-type Devil Fruit that gives the user's body the properties of rubber, making the user a Rubber Human (ゴム人間 Gomu Ningen?). It was originally a treasure that Shanks and his crew took from an unspecified enemy, but was accidentally eaten by the series protagonist Monkey D. Luffy. In the second version of Romance Dawn, it originally belonged to Luffy's grandpa who took it from an unspecified enemy. -- Custom from 👾 Atom.#1011. - Images by mewiyev
