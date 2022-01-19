@@ -31,6 +31,8 @@ catlw [info|reset|roll] [nip|dorayaki|prepoint]
 - B1: Phải có tiền - Check bằng lệnh `catd`
 - B2: Phải có key - Check bằng lệnh `catinv`, xem hiện tại bạn đang còn key trong túi không. Nếu không qua B3
 - B3: Mua key - Check bằng lệnh `catshop` để lấy id của key, sau do dùng lệnh `catbuy 19 [số lượng]` để mua. (19 là ID của key)
-- B4: Kiểm tra vòng quay hiện tại - Check bằng lệnh `catlw info d`. Lúc này bạn sẽ thấy phần thưởng hiện tại của Vòng quay + số lượng key cần cho lượt quay tiếp theo.
+- B4: Kiểm tra vòng quay hiện tại - Check bằng lệnh `catlw info d`. Lúc này bạn sẽ thấy phần thưởng hiện tại của Vòng quay + số lượng key cần cho lượt quay tiếp theo.\
+  ![catlw i d](../../.gitbook/assets/catlw\_i\_d.png)
+  - CLAIMED: là những phần quà bạn đã nhận ở lần quay trước, không thể nhận lại.
 - B5: Quay đều - `catlw r d`
-- B6: Reset vòng quay hiện tại để có vòng quay mới - `catlw rs d`
+- B6: Reset vòng quay hiện tại để có vòng quay mới - `catlw rs d` 
