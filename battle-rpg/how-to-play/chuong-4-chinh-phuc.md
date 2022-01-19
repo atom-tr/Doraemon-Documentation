@@ -49,7 +49,7 @@ Map này dành cho những người mới / đổi nhân vật nên sẽ giới 
 > Xem bản đồ: `cata [world]`
 >
 > ![TAFODADP](https://media.discordapp.net/attachments/698925345855897741/933346387674923018/map-3.png?width=225\&height=225)
-<br>
+>
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
