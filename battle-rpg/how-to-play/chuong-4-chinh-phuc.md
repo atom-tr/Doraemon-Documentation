@@ -46,7 +46,21 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 {% tab title="Map Event" %}
 Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ xuất hiện trong một khoảng thời gian sự kiện.
 
-![X-MAS](../.gitbook/assets/image%20\(13\)%20\(1\).png)
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp)Bản đồ viễn chinh của 👾 Atom.
+>
+> Thế giới: **X-MAS** \
+> Ải: `3/29` \
+> Các ải đã bỏ qua: `không có`&#x20;
+>
+> Viễn chinh **The Diamond Forests** \
+> \- Vé: `3` ![🎫](https://canary.discord.com/assets/5e5ab6737c6e2b6a9aa7a1e7295d1b41.svg) \
+> \- Thưởng: `25000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=40\&quality=lossless) `x20`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=40\&quality=lossless) `x10`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=40\&quality=lossless) `x10`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=40\&quality=lossless) `x10`&#x20;
+>
+> Chọn thế giới: `cata f [world] (-s stage)` \
+> Xem bản đồ: `cata [world]`\
+> ``[![](https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240\&height=240)](https://cdn.discordapp.com/attachments/698925345855897741/933211156322091068/map-2.png)
+
+
 {% endtab %}
 {% endtabs %}
 
