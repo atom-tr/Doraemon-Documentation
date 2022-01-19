@@ -39,7 +39,7 @@ Hãy chắc chắn bạn có bật **Allow direct messages from server members**
 
 ### B1: Tạo phòng game
 
-```
+```s
 cataw new
 ```
 
@@ -49,7 +49,7 @@ cataw new
 
 Cài đặt có thể chỉnh sửa: `impostor`, `confirmEjected`, `totalTasks`, `voteTime`, `killCooldown`, `emergencyCooldown`, `maxCalls`, `visionRate` (max: 100). **Giá trị đằng sau bắt buộc là số.** Ví dụ dưới chúng ta chỉnh số impostor thành 5:
 
-```
+```s
 cataw setting impostor 5
 ```
 
@@ -63,7 +63,7 @@ Số lượng impostor phải ít hơn Crewmate
 
 ID phòng bạn sẽ nhận được ngay từ bước 1, hoặc bạn có thể kiểm tra lại với lệnh `cataw mine`. Người khác có thể tham gia phòng với lệnh:
 
-```
+```s
 cataw join 5VNS
 ```
 
@@ -71,7 +71,7 @@ Với 5VNS là ID phòng game.
 
 ### B4: Bắt đầu game
 
-```
+```s
 cataw start
 ```
 
