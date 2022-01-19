@@ -73,7 +73,7 @@ Lệnh để xem một bảo bối có trong game:
 {% tab title="catg [ID]" %}
 Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?size=20)👾 Atom.#1011's Gomu Gomu no Mi
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=20\&height=20)👾 Atom.#1011's Gomu Gomu no Mi
 >
 > **ID**: `250`&#x20;
 >
