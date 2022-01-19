@@ -73,7 +73,7 @@ Lệnh để xem một bảo bối có trong game:
 {% tab title="catg [ID]" %}
 Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp)👾 Atom.#1011's Gomu Gomu no Mi
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?size=20)👾 Atom.#1011's Gomu Gomu no Mi
 >
 > **ID**: `250`&#x20;
 >
@@ -90,7 +90,7 @@ Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 >
 > Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `8`
 
-![](https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=64\&height=64)
+![](https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=166\&height=166)
 {% endtab %}
 {% endtabs %}
 
