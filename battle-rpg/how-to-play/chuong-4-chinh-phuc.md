@@ -29,7 +29,21 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 
 | MAP | Description |
 | --------- | ----------- |
-|<figure><blockquote style="padding: 15px; background: #eee; border-radius: 5px;"><img src="https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?size=20&#x26;quality=lossless" alt="">Bản đồ viễn chinh của 👾 Atom.</p><p></p><p>Thế giới: <strong>DOLLMANSTEIN</strong> </p><p>Ải: <code>2/23</code> </p><p>Các ải đã bỏ qua: <code>không có</code> </p><p>Viễn chinh <strong>The Vicious Pits</strong> </p><p>- Vé: <code>1</code> <img src="https://canary.discord.com/assets/5e5ab6737c6e2b6a9aa7a1e7295d1b41.svg" alt="🎫"> </p><p>- Thưởng: <code>5000 XP</code>, <img src="https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20&#x26;quality=lossless" alt=":1:"> <code>x10</code>, <img src="https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20&#x26;quality=lossless" alt=":gem_box:"> <code>x5</code>, <img src="https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20&#x26;quality=lossless" alt=":gg_box:"> <code>x4</code>, <img src="https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20&#x26;quality=lossless" alt=":wp_box:"> <code>x2</code> </p><p>Chọn thế giới: <code>cata f [world] (-s stage)</code> </p><p>Xem bản đồ: <code>cata [world]</code></p><p><img src="https://media.discordapp.net/attachments/698925345855897741/933195193925140520/map-1.png?width=240&#x26;height=240" alt=""></p></blockquote><figcaption>—Aldous Huxley, <cite>Brave New World</cite></figcaption></figure>|             |
+|<style>
+	blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+</style><figure><blockquote style="padding: 15px; background: #eee; border-radius: 5px;"><img src="https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp" width="30px" alt="">Bản đồ viễn chinh của 👾 Atom.</p><p>Thế giới: <strong>DOLLMANSTEIN</strong> </p><p>Ải: <code>2/23</code> </p><p>Các ải đã bỏ qua: <code>không có</code> </p><p>Viễn chinh <strong>The Vicious Pits</strong> </p><p>- Vé: <code>1</code> <img src="https://canary.discord.com/assets/5e5ab6737c6e2b6a9aa7a1e7295d1b41.svg" alt="🎫"> </p><p>- Thưởng: <code>5000 XP</code>, <img src="https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20&#x26;quality=lossless" alt=":1:"> <code>x10</code>, <img src="https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20&#x26;quality=lossless" alt=":gem_box:"> <code>x5</code>, <img src="https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20&#x26;quality=lossless" alt=":gg_box:"> <code>x4</code>, <img src="https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20&#x26;quality=lossless" alt=":wp_box:"> <code>x2</code> </p><p>Chọn thế giới: <code>cata f [world] (-s stage)</code> </p><p>Xem bản đồ: <code>cata [world]</code></p><p><img src="https://media.discordapp.net/attachments/698925345855897741/933195193925140520/map-1.png?width=240&#x26;height=240" alt=""></p></blockquote><figcaption>—Aldous Huxley, <cite>Brave New World</cite></figcaption></figure>|             |
 {% endtab %}
 
 {% tab title="Map Event" %}
