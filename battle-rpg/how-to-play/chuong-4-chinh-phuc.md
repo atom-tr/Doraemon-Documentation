@@ -43,7 +43,7 @@ Map này dành cho những người mới / đổi nhân vật nên sẽ giới 
 >
 > Viễn chinh **The Spirit Grotto** \
 > \- Vé: `1 🎫` \
-> \- Thưởng: `1000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x5`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=40\&quality=lossless) `x2`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=40\&quality=lossless) `x1`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=40\&quality=lossless) `x1`
+> \- Thưởng: `1000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x5`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20\&quality=lossless) `x2`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20\&quality=lossless) `x1`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20\&quality=lossless) `x1`
 >
 > Chọn thế giới: `cata f [world] (-s stage)` \
 > Xem bản đồ: `cata [world]`
