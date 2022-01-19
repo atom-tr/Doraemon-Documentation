@@ -1,4 +1,4 @@
-# Getting Started...
+# Getting Started
 
 Để biết làm cách nào bắt đầu chơi Doraemon Battle, gõ `cattutorial` hoặc cách đơn giản hơn là hãy bắt đầu với những hướng dẫn sau đây.
 

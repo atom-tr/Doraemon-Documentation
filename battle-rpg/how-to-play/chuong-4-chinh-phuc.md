@@ -34,7 +34,7 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 > Các ải đã bỏ qua: `không có`&#x20;
 >
 > Viễn chinh **The Deepwood Cells** \
-> \- Vé: `1🎫` \
+> \- Vé: `1 🎫` \
 > \- Thưởng: `7500 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x15`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20\&quality=lossless) `x8`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20\&quality=lossless) `x5`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20\&quality=lossless) `x3`&#x20;
 >
 > Chọn thế giới: `cata f [world] (-s stage)` \
@@ -58,7 +58,7 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 > Các ải đã bỏ qua: `không có`&#x20;
 >
 > Viễn chinh **The Diamond Forests** \
-> \- Vé: `3🎫` \
+> \- Vé: `3 🎫` \
 > \- Thưởng: `25000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x20`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20\&quality=lossless) `x10`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20\&quality=lossless) `x10`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20\&quality=lossless) `x10`&#x20;
 >
 > Chọn thế giới: `cata f [world] (-s stage)` \

@@ -1,4 +1,4 @@
-# Getting Started...
+# Getting Started
 
 ## Doraemon | Battle game & Fun stuff bot
 

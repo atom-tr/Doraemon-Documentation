@@ -75,7 +75,7 @@ VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 > Chỉ số cơ bản ![:da:](https://cdn.discordapp.com/emojis/689391397643747368.webp?size=20\&quality=lossless) `180` ![:sh:](https://cdn.discordapp.com/emojis/689391171411247196.webp?size=20\&quality=lossless) `50`\
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `60` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `25` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `35`
 >
-> [![wp61](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)](https://media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png)
+> ![wp61](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)
 {% endtab %}
 
 {% tab title="catwp [ID]" %}
@@ -88,7 +88,7 @@ catwp 861
 
 <hr>
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) 👾 Atom.'s No.6 Suit
+> ![No.6 Suit](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) 👾 Atom.'s No.6 Suit
 >
 >
 > **ID**: `861` \
@@ -104,7 +104,7 @@ catwp 861
 > Chỉ số cơ bản ![:da:](https://cdn.discordapp.com/emojis/689391397643747368.webp?size=20\&quality=lossless) `180(+168)` ![:sh:](https://cdn.discordapp.com/emojis/689391171411247196.webp?size=20\&quality=lossless) `50(+46)`\
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `60(+10)` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `25(+10)` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50(+10)` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `35(+10)`
 >
-> [![861](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)](https://media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png)
+> ![861](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)
 {% endtab %}
 {% endtabs %}
 
