@@ -18,6 +18,7 @@ Các lệnh fight cần phải trang bị nhân vật và vũ khí.
 | `fight`           | Tham gia trận chiến random, nhận exp, tăng level. | 15s            | `f`     |
 | `fight solo`      | Tham gia một trận đấu hạng đơn                    | 15s            | `f s`   |
 | `fight duo`       | Cùng vợ \| chồng tham gia đấu hạng.               | 15s            | `f d`   |
+| `fight team`       | Cùng team của bạn tham gia đấu hạng.             | 15s            | `f tm`   |
 
 {% hint style="info" %}
 Battle premium sẽ được giảm thời gian hồi các lệnh
