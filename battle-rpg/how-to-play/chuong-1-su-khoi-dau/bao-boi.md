@@ -74,7 +74,8 @@ catgg i 50
 > Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `8`
 >
 
-![Gomu Gomu no Mi](https://images-ext-2.discordapp.net/external/qc\_rhCAg9wcQWGEjdg3htZJtQNbif0SnadkpsiNKyWg/https/media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=64\&height=64)
+![Gomu Gomu no Mi](https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=166\&height=166)
+
 {% endtab %}
 
 {% tab title="catg [ID]" %}
