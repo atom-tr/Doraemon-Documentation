@@ -49,7 +49,6 @@ Map này dành cho những người mới / đổi nhân vật nên sẽ giới 
 > Xem bản đồ: `cata [world]`
 >
 > ![TAFODADP](https://media.discordapp.net/attachments/698925345855897741/933346387674923018/map-3.png?width=225\&height=225)
-
 <br>
 
 {% hint style="info" %}
@@ -76,7 +75,6 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 > Xem bản đồ: `cata [world]`
 >
 > ![cata d](https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240\&height=240)
-
 <br>
 
 {% hint style="info" %}
@@ -103,7 +101,6 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 > Xem bản đồ: `cata [world]`
 >
 > ![cata x](https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240\&height=240)
-
 <br>
 
 {% hint style="info" %}
@@ -130,7 +127,7 @@ Sử dụng `cathelp worldboss [lệnh con]` để xem chi tiết hơn
 * `info` | `i`: Xem trạng thái của boss và bảng xếp hạng sát thương đóng góp
 * `fight` | `f`:cùng đồng đội tham gia tấn công boss
 
-```
+```s
 catwb f [HOLLOWPOD|FOULMONSTER|MURKWRAITH]
 catwb i [H|F|M]
 ```
