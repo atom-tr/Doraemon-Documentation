@@ -44,6 +44,7 @@ Xem thông tin nhân vật bạn đang có: `catwp [ID hiện tại]`
 
 Các chỉ số:
 
+* **Yêu cầu cấp độ**: Cấp độ hiện tại của nhân vật bạn sở hữu phải đạt ngưỡng này mới có thể sữ dụng vũ khí.
 * Chỉ số cơ bản: ![](https://cdn.discordapp.com/emojis/689391397643747368.png?v=1)`damage` và ![](https://cdn.discordapp.com/emojis/689391171411247196.png?v=1)`shield` sẽ tăng mỗi khi bạn cường hóa vũ khí
 * Chỉ số mở rộng: ![](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1)`attack` ![](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1)`defense` ![](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1)`luck` ![](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp (max +10) không tăng lên khi bạn cường hóa.
 
