@@ -27,7 +27,7 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 {% tab title="DOLLMANSTEIN" %}
 Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp)Bản đồ viễn chinh của 👾 Atom.
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25)Bản đồ viễn chinh của 👾 Atom.
 >
 > Thế giới: **DOLLMANSTEIN** \
 > Ải: `3/23` \
@@ -35,18 +35,23 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 >
 > Viễn chinh **The Deepwood Cells** \
 > \- Vé: `1` ![🎫](https://canary.discord.com/assets/5e5ab6737c6e2b6a9aa7a1e7295d1b41.svg) \
-> \- Thưởng: `7500 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=40\&quality=lossless) `x15`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=40\&quality=lossless) `x8`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=40\&quality=lossless) `x5`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=40\&quality=lossless) `x3`&#x20;
+> \- Thưởng: `7500 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x15`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20\&quality=lossless) `x8`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20\&quality=lossless) `x5`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20\&quality=lossless) `x3`&#x20;
 >
 > Chọn thế giới: `cata f [world] (-s stage)` \
 > Xem bản đồ: `cata [world]`
 >
 > [![](https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240\&height=240)](https://cdn.discordapp.com/attachments/698925345855897741/933210614908747857/map-1.png)
+
+{% hint style="info" %}
+Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
+{% endhint %}
+
 {% endtab %}
 
 {% tab title="Map Event" %}
 Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ xuất hiện trong một khoảng thời gian sự kiện.
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp)Bản đồ viễn chinh của 👾 Atom.
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25)Bản đồ viễn chinh của 👾 Atom.
 >
 > Thế giới: **X-MAS** \
 > Ải: `3/29` \
@@ -54,12 +59,16 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 >
 > Viễn chinh **The Diamond Forests** \
 > \- Vé: `3` ![🎫](https://canary.discord.com/assets/5e5ab6737c6e2b6a9aa7a1e7295d1b41.svg) \
-> \- Thưởng: `25000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=40\&quality=lossless) `x20`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=40\&quality=lossless) `x10`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=40\&quality=lossless) `x10`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=40\&quality=lossless) `x10`&#x20;
+> \- Thưởng: `25000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x20`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20\&quality=lossless) `x10`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20\&quality=lossless) `x10`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20\&quality=lossless) `x10`&#x20;
 >
 > Chọn thế giới: `cata f [world] (-s stage)` \
-> Xem bản đồ: `cata [world]`\
-> ``[![](https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240\&height=240)](https://cdn.discordapp.com/attachments/698925345855897741/933211156322091068/map-2.png)
+> Xem bản đồ: `cata [world]`
+> 
+> [![](https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240\&height=240)](https://cdn.discordapp.com/attachments/698925345855897741/933211156322091068/map-2.png)
 
+{% hint style="info" %}
+Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
+{% endhint %}
 
 {% endtab %}
 {% endtabs %}
