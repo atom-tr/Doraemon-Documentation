@@ -34,11 +34,6 @@ Map **TAFODADP**, `cata t` để xem thông tin map. Đây là ải viễn chinh
 Map này dành cho những người mới / đổi nhân vật nên sẽ giới hạn level nhân vật của toàn team (Level 1-35).
 {% endhint %}
 
-{% endtab %}
-
-{% tab title="DOLLMANSTEIN - Premium" %}
-{% endhint %}
-
 > ![cata t](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
 > Thế giới: **TAFODADP**
