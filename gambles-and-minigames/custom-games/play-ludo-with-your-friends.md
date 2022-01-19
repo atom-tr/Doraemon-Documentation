@@ -2,6 +2,9 @@
 description: >-
   Create ludo game with bet and play with your friends. When everyone's ready,
   the game starts!
+cover: >-
+  https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,g=0.5x0.5,f=auto/aa1108c9f1d4e6d6b564824e6c4a2ca8460e48ae9d3f0b98bdbb8b816ff8c352.png
+coverY: 0
 ---
 
 # Play ludo with your friends
