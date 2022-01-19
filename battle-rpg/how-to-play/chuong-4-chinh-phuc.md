@@ -24,6 +24,31 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 * Một số ải chỉ dành cho Battle Premium User.
 
 {% tabs %}
+{% tab title="TAFODADP" %}
+Map **TAFODADP**, `cata t` để xem thông tin map. Đây là ải viễn chinh dành cho những người chơi mới, level thấp.
+
+> ![cata d](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
+>
+> Thế giới: **DOLLMANSTEIN** \
+> Ải: `3/23` \
+> Các ải đã bỏ qua: `không có`&#x20;
+>
+> Viễn chinh **The Deepwood Cells** \
+> \- Vé: `1 🎫` \
+> \- Thưởng: `7500 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x15`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20\&quality=lossless) `x8`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20\&quality=lossless) `x5`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20\&quality=lossless) `x3`&#x20;
+>
+> Chọn thế giới: `cata f [world] (-s stage)` \
+> Xem bản đồ: `cata [world]`
+>
+> ![cata d](https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240\&height=240)
+
+{% hint style="info" %}
+Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
+{% endhint %}
+
+{% endtab %}
+
+{% tabs %}
 {% tab title="DOLLMANSTEIN" %}
 Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
