@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Getting Started...](README.md)
+* [🆕 Getting Started...](README.md)
 * [❔ FAQ - Guild](faq-guild.md)
 
 ## Community Utility
@@ -12,19 +12,19 @@
 * [💬 Confessions](community-utility/confessions/README.md)
   * [Get started](community-utility/confessions/get-started.md)
 * [🎙 Temp Voice Channels](community-utility/temp-voice-channels.md)
-* [Giveaways](community-utility/giveaways/README.md)
-  * [Task](community-utility/giveaways/task.md)
+* [🎁 Giveaways](community-utility/giveaways/README.md)
+  * [📜 Task](community-utility/giveaways/task.md)
   * [🎁 Giveaways có điều kiện](community-utility/giveaways/giveaways-co-dieu-kien.md)
 * [Level](community-utility/level.md)
 
 ## Battle RPG
 
-* [Getting Started...](battle-rpg/getting-started....md)
+* [🆕 Getting Started...](battle-rpg/getting-started....md)
 * [🆕 Hướng dẫn chơi](battle-rpg/how-to-play/README.md)
   * [Chương 1: Sự khởi đầu](battle-rpg/how-to-play/chuong-1-su-khoi-dau/README.md)
-    * [Nhân vật](battle-rpg/how-to-play/chuong-1-su-khoi-dau/nhan-vat.md)
-    * [Vũ khí](battle-rpg/how-to-play/chuong-1-su-khoi-dau/vu-khi.md)
-    * [Bảo bối](battle-rpg/how-to-play/chuong-1-su-khoi-dau/bao-boi.md)
+    * [👤 Nhân vật](battle-rpg/how-to-play/chuong-1-su-khoi-dau/nhan-vat.md)
+    * [⚔ Vũ khí](battle-rpg/how-to-play/chuong-1-su-khoi-dau/vu-khi.md)
+    * [💣 Bảo bối](battle-rpg/how-to-play/chuong-1-su-khoi-dau/bao-boi.md)
   * [Chương 2: Thăm ngàn](battle-rpg/how-to-play/chuong-2-tham-ngan.md)
   * [Chương 3: Phát triển](battle-rpg/how-to-play/chuong-3-phat-trien.md)
   * [Chương 4: Chinh phục](battle-rpg/how-to-play/chuong-4-chinh-phuc.md)
