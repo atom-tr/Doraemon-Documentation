@@ -40,8 +40,8 @@ Các chỉ số:
 
 * **Kỹ năng:**
 * **Yêu cầu cấp độ**: Cấp độ hiện tại của nhân vật bạn sở hữu phải đạt ngưỡng này mới có thể sữ dụng bảo bối.
-* **Chỉ số mở rộng:** ![](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1)`attack` ![](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1)`defense` ![](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1)`luck` ![](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp (max +10) không tăng lên khi bạn cường hóa.
-* Các loại gadget được xếp hạng từ cao tới thấp: ![:uls:](https://cdn.discordapp.com/emojis/693704060972433478.png?v=1) ![:ss:](https://cdn.discordapp.com/emojis/693699322004504607.png?v=1) ![:as:](https://cdn.discordapp.com/emojis/693699320863784972.png?v=1) ![:js:](https://cdn.discordapp.com/emojis/693699320842551307.png?v=1) ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1) ![:ur:](https://cdn.discordapp.com/emojis/693699222515744809.png?v=1) ![:rr:](https://cdn.discordapp.com/emojis/693699222729654284.png?v=1) ![:sr:](https://cdn.discordapp.com/emojis/693699222855352400.png?v=1) ![:ucn:](https://cdn.discordapp.com/emojis/693702729930899466.png?v=1) ![:sn:](https://cdn.discordapp.com/emojis/693699121541808138.png?v=1) ![:qn:](https://cdn.discordapp.com/emojis/693699122657493032.png?v=1) ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.png?v=1)
+* **Chỉ số mở rộng:** ![](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1&size=20)`attack` ![](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1&size=20)`defense` ![](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1&size=20)`luck` ![](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1&size=20)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp (max +10) không tăng lên khi bạn cường hóa.
+* Các loại gadget được xếp hạng từ cao tới thấp: ![:uls:](https://cdn.discordapp.com/emojis/693704060972433478.png?v=1&size=20) ![:ss:](https://cdn.discordapp.com/emojis/693699322004504607.png?v=1&size=20) ![:as:](https://cdn.discordapp.com/emojis/693699320863784972.png?v=1&size=20) ![:js:](https://cdn.discordapp.com/emojis/693699320842551307.png?v=1&size=20) ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1&size=20) ![:ur:](https://cdn.discordapp.com/emojis/693699222515744809.png?v=1&size=20) ![:rr:](https://cdn.discordapp.com/emojis/693699222729654284.png?v=1&size=20) ![:sr:](https://cdn.discordapp.com/emojis/693699222855352400.png?v=1&size=20) ![:ucn:](https://cdn.discordapp.com/emojis/693702729930899466.png?v=1&size=20) ![:sn:](https://cdn.discordapp.com/emojis/693699121541808138.png?v=1&size=20) ![:qn:](https://cdn.discordapp.com/emojis/693699122657493032.png?v=1&size=20) ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.png?v=1&size=20)
 
 {% tabs %}
 {% tab title="catgg i [ID]" %}
@@ -98,12 +98,12 @@ Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
 ![Gomu Gomu no Mi](../../../.gitbook/assets/gg\_250.png)
 
-* **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1)
-* **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.png?v=1) `Không nhận 25/{30}/35/50/75% sát thương từ đối thủ trong 1 lượt`
+* **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1&size=20)
+* **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.png?v=1&size=20) `Không nhận 25/{30}/35/50/75% sát thương từ đối thủ trong 1 lượt`
 * **Mana tiêu thụ**: `40`
 * **Thời gian hồi chiêu**: `3`
 
-Với thông tin kỹ năng, ta có 75% là ngưỡng sức mạnh của kỹ năng của loại bảo bối ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1), và các số 25/{30}/35/50/75% là sức mạnh của từng cấp của bảo bối. Với {xx%} là sức mạnh hiện tại. Từ 2 con số này ta có thể tính được % sức mạnh của bảo bối bạn sử dụng.\
+Với thông tin kỹ năng, ta có 75% là ngưỡng sức mạnh của kỹ năng của loại bảo bối ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1&size=20), và các số 25/{30}/35/50/75% là sức mạnh của từng cấp của bảo bối. Với {xx%} là sức mạnh hiện tại. Từ 2 con số này ta có thể tính được % sức mạnh của bảo bối bạn sử dụng.\
 VD với gg 250 trên ta có: 75%\*30% = 22.5%, tức bạn sẽ không nhận 22.5% sát thương từ đối thủ trong 1 lượt.
 
 ## Nâng cấp bảo bối
@@ -198,6 +198,3 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `5`
 {% endtab %}
 {% endtabs %}
-
-
-
