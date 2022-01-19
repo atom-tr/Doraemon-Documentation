@@ -28,9 +28,9 @@ ID hiện tại của wp sẽ là: `[Cấp]+[ID gốc]`
 Xem đầy đủ các lệnh và thông tin chi tiết liên quan: **`cath wp`**
 {% endhint %}
 
-Ngoài gói **Starter Pack \(item 10\)** chỉ nhận được 1 lần khi bắt đầu chơi, bạn có thể có vũ khí bằng cách mở rương \(item 1\) hoặc mua từ người chơi khác.
+Ngoài gói **Starter Pack (item 10)** chỉ nhận được 1 lần khi bắt đầu chơi, bạn có thể có vũ khí bằng cách mở rương (item 1) hoặc mua từ người chơi khác.
 
-Bạn có thể nhận rương vũ khí: mua ở shop với giá 25 dora `catbuy 1 [số lượng]` hoặc nhận được khi đánh bại boss.  
+Bạn có thể nhận rương vũ khí: mua ở shop với giá 25 dora `catbuy 1 [số lượng]` hoặc nhận được khi đánh bại boss.\
 Bạn có thể tìm mua vũ khí bằng cách hỏi trực tiếp ở người chơi khác, hoặc tìm kiếm ở chợ Đô Rề: `catm wp`
 
 {% hint style="warning" %}
@@ -39,32 +39,58 @@ Người chơi khi bán qua chợ Đô Rề sẽ phải chịu phí 10%. Các ng
 
 ## Thông tin và chỉ số vũ khí
 
-Để xem đầy đủ chi tiết nhân vật: `catwp i [ID gốc]`  
+Để xem đầy đủ chi tiết nhân vật: `catwp i [ID gốc]`\
 Xem thông tin nhân vật bạn đang có: `catwp [ID hiện tại]`
 
 Các chỉ số:
 
-* Chỉ số cơ bản:  ![](https://cdn.discordapp.com/emojis/689391397643747368.png?v=1)`damage` và ![](https://cdn.discordapp.com/emojis/689391171411247196.png?v=1)`shield` sẽ tăng mỗi khi bạn cường hóa vũ khí
-* Chỉ số mở rộng:  ![](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1)`attack` ![](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1)`defense` ![](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1)`luck` ![](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp \(max +10\) không tăng lên khi bạn cường hóa.
+* Chỉ số cơ bản: ![](https://cdn.discordapp.com/emojis/689391397643747368.png?v=1)`damage` và ![](https://cdn.discordapp.com/emojis/689391171411247196.png?v=1)`shield` sẽ tăng mỗi khi bạn cường hóa vũ khí
+* Chỉ số mở rộng: ![](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1)`attack` ![](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1)`defense` ![](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1)`luck` ![](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp (max +10) không tăng lên khi bạn cường hóa.
 
 {% tabs %}
-{% tab title="catwp i \[ID\]" %}
+{% tab title="catwp i [ID]" %}
 Lệnh để xem một vũ khí có trong game:
 
-![SIG P228](../../.gitbook/assets/image%20%2810%29.png)
+VD&#x20;
+
+> **BATTLE WEAPON**
+>
+> ****![:SuitNo6:](https://cdn.discordapp.com/emojis/810055238315933726.webp?size=40\&quality=lossless) No.6 Suit
+>
+> **ID cố định**: `61`&#x20;
+>
+> **Mô tả**: Bộ suit của nhà Germa dành riêng cho người chị cả No.6 (biệt danh Poison Pink). Nó giúp tối ưu tốc độ cho Poison Pink, tăng khả năng bay lượn giúp phòng thủ tốt hơn và khả năng đánh chớp nhoáng. -- Custom weapon from player **B O O B O O#6363**&#x20;
+>
+> **Nguyên tố**: ![:fi:](https://cdn.discordapp.com/emojis/702510320064921641.webp?size=40\&quality=lossless)&#x20;
+>
+> **Tỉ lệ xuất hiện**: `0.25%`&#x20;
+>
+> **Chỉ dành Premium**: `false`&#x20;
+>
+> **Khả năng giao dịch**: `true`&#x20;
+>
+> **Yêu cầu cấp độ**: `25`&#x20;
+>
+> **Lượt thu thập**: `1642`&#x20;
+>
+> **Công khai**: `true`
+>
+> Chỉ số cơ bản![:da:](https://cdn.discordapp.com/emojis/689391397643747368.webp?size=40\&quality=lossless) `180` ![:sh:](https://cdn.discordapp.com/emojis/689391171411247196.webp?size=40\&quality=lossless) `50`
+>
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `60` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `25` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `35`[![](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)](https://media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png)
 {% endtab %}
 
-{% tab title="catwp \[ID\]" %}
-Xem thông tin chỉ số của vũ khí bạn đang sử hữu:  
+{% tab title="catwp [ID]" %}
+Xem thông tin chỉ số của vũ khí bạn đang sử hữu:\
 Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa lên 2, và chỉ số mở rộng bạn đã cường hóa.
 
-![SIG P228](../../.gitbook/assets/image%20%289%29%20%281%29.png)
+![SIG P228](../../.gitbook/assets/image%20\(9\)%20\(1\).png)
 {% endtab %}
 {% endtabs %}
 
 ## Cường hóa vũ khí
 
-Để nâng cấp vũ khí của bạn, bạn cần sử dụng Houtu \(gem 3\) để nâng cấp. Số lượng và tỷ lệ sẽ phụ thuộc vào cấp độ hiện tại của vũ khí bạn. Số lượng Huotu cần để 100% nâng cấp thành công được tính bằng phép tính: `3^[Cấp hiện tại]` 
+Để nâng cấp vũ khí của bạn, bạn cần sử dụng Houtu (gem 3) để nâng cấp. Số lượng và tỷ lệ sẽ phụ thuộc vào cấp độ hiện tại của vũ khí bạn. Số lượng Huotu cần để 100% nâng cấp thành công được tính bằng phép tính: `3^[Cấp hiện tại]`
 
 {% hint style="success" %}
 Vũ khí sẽ có thể nâng cấp 8 lần - **Cấp 9 là cấp cao nhất**
@@ -73,6 +99,3 @@ Vũ khí sẽ có thể nâng cấp 8 lần - **Cấp 9 là cấp cao nhất**
 {% hint style="warning" %}
 Sau khi **nâng cấp vũ khí** lên level mới, **ID vũ khí sẽ thay đổi** đồng thời các **chỉ số mở rộng** đã được cường hóa **sẽ bị reset**
 {% endhint %}
-
-
-
