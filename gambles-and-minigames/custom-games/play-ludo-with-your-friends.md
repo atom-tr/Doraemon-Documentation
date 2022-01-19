@@ -15,7 +15,7 @@ Gõ `cathelp ludo [subcommand]` để biết thêm chi tiết!
 
 Subcommands (11): `info`, `join`, `list`, `mine`, `new`, `dice`, `votekick`, `leave`, `ready`, `setting`, `unready`
 
-## Subcommand details.
+## Subcommand details
 
 | Subcommand | Details                                                          | Aliases       | Full Command                                                                                                                      |
 | ---------- | ---------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
