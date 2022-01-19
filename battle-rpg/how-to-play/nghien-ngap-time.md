@@ -22,7 +22,7 @@ Quay Vòng quay May mắn để nhận vô số phần thưởng. Chìa khóa (k
 
 Câu lệnh đầy đủ:
 
-```
+```s
 catlw [info|reset|roll] [nip|dorayaki|prepoint]
 ```
 
@@ -36,3 +36,7 @@ catlw [info|reset|roll] [nip|dorayaki|prepoint]
   * CLAIMED: là những phần quà bạn đã nhận ở lần quay trước, không thể nhận lại.
 * B5: Quay đều - `catlw r d`
 * B6: Reset vòng quay hiện tại để có vòng quay mới - `catlw rs d`
+
+{% hint style="warning" %}
+_Mở rương vũ khí hay nhận vật cũng có khả năng gây nghiện cao. Đừng như tôi, hãy tránh xa nó!_
+{% endhint %}
