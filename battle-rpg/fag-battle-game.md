@@ -26,4 +26,12 @@ Bạn có 3 cách để kiếm được vé (🎫: item 17):
 
 ## Làm sao để có catnip?
 
-Bạn có thể có bằng cách làm task hằng ngày (mỗi 12h), hoặc mở ra từ rương Premium
+Bạn có thể có bằng cách:
+
+1. Điểm danh hằng ngày (mỗi 12h)
+2. Làm task hằng ngày (mỗi 12h)
+3. Mở ra từ rương Premium
+4. Cờ bạc
+5. Đi xin. ^^
+
+{% content-ref url="../gambles-and-minigames\gambles.md" %}
