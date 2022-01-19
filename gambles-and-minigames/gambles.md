@@ -2,7 +2,7 @@
 description: Gấp đôi tới chết!
 cover: >-
   https://www.medianama.com/wp-content/uploads/2019/04/cards-gaming-gambling.jpg.jpg
-coverY: 0
+coverY: -67.2442396313364
 ---
 
 # 🎲 Gambles

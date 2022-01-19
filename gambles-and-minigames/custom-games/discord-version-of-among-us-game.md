@@ -1,12 +1,14 @@
 ---
 description: Among Wumpii game, a light custom of Among Us for discord.
+cover: https://i.ytimg.com/vi/MbMEc_o8oHk/maxresdefault.jpg
+coverY: 0
 ---
 
 # Discord version of Among us game
 
 ## Thông tin chung
 
-Command `amongwumpii` or `aw`.&#x20;
+Command `amongwumpii` or `aw`.
 
 Cooldown: `1s`
 
@@ -18,16 +20,16 @@ Gõ `cathelp amongwumpii [subcommand]` để xem hướng dẫn về các subcom
 
 ## Subcommand informations
 
-| Subcommand | Details                                                                                                                                                                                                                                                                                                                                                                   | Aliases | command                       |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------- |
-| info       | Kiểm tra thông tin một phòng đã tạo                                                                                                                                                                                                                                                                                                                                                   | `i`     | `cataw info <code>`           |
-| join       | Tham gia phòng game                                                                                                                                                                                                                                                                                                                                                                 | `in`    | `cataw join <code>`           |
-| list       | Xem danh sách phòng đang có                                                                                                                                                                                                                                                                                                                                                      | `ls`    | `cataw list`                  |
-| mine       | Kiểm tra thông tin phòng hiện tại bạn đang tham gia                                                                                                                                                                                                                                                                                                                                                   | `me`    | `cataw mine`                  |
-| new        | Tạo phòng mới                                                                                                                                                                                                                                                                                                                                                           | `n`     | `cataw new`                   |
-| setting    | <p>Thay đổi cài đặt của phòng game. Tuỳ chọn: `impostor`, `confirmEjected`, `totalTasks`, `voteTime`, `killCooldown`, `emergencyCooldown`, `maxCalls`, `visionRate` (max: 100). Value must be a number.</p> | `set`   | `cataw <option> <value(int)>` |
-| start      | Bắt đầu game phòng bạn đang host                                                                                                                                                                                                                                                                                                                                                   | `s`     | `cataw start`                 |
-| leave      | Thoát phòng                                                                                                                                                                                                                                                                                                                                                                | `l`     | `cataw leave`                 |
+| Subcommand | Details                                                                                                                                                                                              | Aliases | command                       |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------- |
+| info       | Kiểm tra thông tin một phòng đã tạo                                                                                                                                                                  | `i`     | `cataw info <code>`           |
+| join       | Tham gia phòng game                                                                                                                                                                                  | `in`    | `cataw join <code>`           |
+| list       | Xem danh sách phòng đang có                                                                                                                                                                          | `ls`    | `cataw list`                  |
+| mine       | Kiểm tra thông tin phòng hiện tại bạn đang tham gia                                                                                                                                                  | `me`    | `cataw mine`                  |
+| new        | Tạo phòng mới                                                                                                                                                                                        | `n`     | `cataw new`                   |
+| setting    | Thay đổi cài đặt của phòng game. Tuỳ chọn: `impostor`, `confirmEjected`, `totalTasks`, `voteTime`, `killCooldown`, `emergencyCooldown`, `maxCalls`, `visionRate` (max: 100). Value must be a number. | `set`   | `cataw <option> <value(int)>` |
+| start      | Bắt đầu game phòng bạn đang host                                                                                                                                                                     | `s`     | `cataw start`                 |
+| leave      | Thoát phòng                                                                                                                                                                                          | `l`     | `cataw leave`                 |
 
 {% hint style="warning" %}
 Hãy chắc chắn bạn có bật **Allow direct messages from server members** trong **Privacy Settings** ít nhất một server có Doreamon, như vậy Doraemon mới có thể gửi tin nhắn cho bạn.
@@ -37,7 +39,7 @@ Hãy chắc chắn bạn có bật **Allow direct messages from server members**
 
 ### B1: Tạo phòng game
 
-```s
+```
 cataw new
 ```
 
@@ -47,7 +49,7 @@ cataw new
 
 Cài đặt có thể chỉnh sửa: `impostor`, `confirmEjected`, `totalTasks`, `voteTime`, `killCooldown`, `emergencyCooldown`, `maxCalls`, `visionRate` (max: 100). **Giá trị đằng sau bắt buộc là số.** Ví dụ dưới chúng ta chỉnh số impostor thành 5:
 
-```s
+```
 cataw setting impostor 5
 ```
 
@@ -61,7 +63,7 @@ Số lượng impostor phải ít hơn Crewmate
 
 ID phòng bạn sẽ nhận được ngay từ bước 1, hoặc bạn có thể kiểm tra lại với lệnh `cataw mine`. Người khác có thể tham gia phòng với lệnh:
 
-```s
+```
 cataw join 5VNS
 ```
 
@@ -69,7 +71,7 @@ Với 5VNS là ID phòng game.
 
 ### B4: Bắt đầu game
 
-```s
+```
 cataw start
 ```
 
@@ -83,12 +85,11 @@ Mỗi người chơi sẽ được ramdom với một role khác nhau. Các lệ
 
 {% tabs %}
 {% tab title="Impostor" %}
-
-#### Role Impostor
+**Role Impostor**
 
 Tấn công Crewmate, bằng bất cứ giá nào hãy khiến họ không thể hoàn thành toàn bộ task.
 
-#### Command Impostor
+**Command Impostor**
 
 `NEXT` or `BACK` di chuyển tới phòng bên cạnh\
 `REPORT` lệnh có thể sử dụng khi bạn phát hiện xác ở trong room\
@@ -98,16 +99,14 @@ Tấn công Crewmate, bằng bất cứ giá nào hãy khiến họ không thể
 `TELEPORT`: Dịch chuyển tới phòng đối diện
 
 ![impostor](../../.gitbook/assets/en\_cataw\_impostor.png)
-
 {% endtab %}
 
 {% tab title="Crewmate" %}
-
-#### Role Crewmate
+**Role Crewmate**
 
 Hoàn thành tất cả các task hoặc tìm ra được toàm bộ Impostor đang trà trộn.
 
-#### Command Crewmate
+**Command Crewmate**
 
 `NEXT` or `BACK` di chuyển qua phòng bên cạnh\
 `REPORT` lệnh có thể sử dụng khi bạn phát hiện xác ở trong room\
@@ -115,7 +114,6 @@ Hoàn thành tất cả các task hoặc tìm ra được toàm bộ Impostor đ
 
 ![crewmate](../../.gitbook/assets/en\_cataw\_crewmate.png)
 {% endtab %}
-
 {% endtabs %}
 
 {% hint style="info" %}
