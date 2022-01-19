@@ -29,6 +29,7 @@
   * [Chương 3: Phát triển](battle-rpg/how-to-play/chuong-3-phat-trien.md)
   * [Chương 4: Chinh phục](battle-rpg/how-to-play/chuong-4-chinh-phuc.md)
   * [Chương 5: Danh vọng](battle-rpg/how-to-play/chuong-5-danh-vong.md)
+  * [Nghiện ngập time](battle-rpg/how-to-play/nghien-ngap-time.md)
 * [FAG - Battle Game](battle-rpg/fag-battle-game.md)
 
 ## Gambles & Minigames
