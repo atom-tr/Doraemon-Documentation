@@ -117,8 +117,8 @@ Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [
 
 Bạn có 3 cách để kiếm được vé (🎫: item 17):
 
-1. Thực hiện vote cho BOT mỗi 12h
-2. Mua vé tại shop bằng điểm pre (Sẽ được tặng khi bạn mua pre 2 trở lên)
+1. Thực hiện vote cho BOT mỗi 12h. `catvote` để lấy link vote.
+2. Mua vé tại shop bằng điểm pre (Sẽ được tặng khi bạn mua pre 2 trở lên). `catbuy 17 [số lượng]`
 3. Làm task tuần. Mỗi tuần sẽ có 1 task có phần thưởng là vé đi ải, bạn có thể kiểm tra task hiện tại bằng `cattask`
 
 ## **WorldBoss**
