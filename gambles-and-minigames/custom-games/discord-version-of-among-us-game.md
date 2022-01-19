@@ -1,5 +1,7 @@
 ---
 description: Among Wumpii game, a light custom of Among Us for discord.
+cover: https://i.ytimg.com/vi/MbMEc_o8oHk/maxresdefault.jpg
+coverY: 0
 ---
 
 # Discord version of Among us game
