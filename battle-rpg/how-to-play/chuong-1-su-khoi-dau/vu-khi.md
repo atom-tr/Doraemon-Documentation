@@ -59,7 +59,7 @@ VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 > ![:SuitNo6:](https://cdn.discordapp.com/emojis/810055238315933726.webp?size=20\&quality=lossless) No.6 Suit
 >
 > **ID cố định**: `61`\
-> ``**Mô tả**: Bộ suit của nhà Germa dành riêng cho người chị cả No.6 (biệt danh Poison Pink). Nó giúp tối ưu tốc độ cho Poison Pink, tăng khả năng bay lượn giúp phòng thủ tốt hơn và khả năng đánh chớp nhoáng. -- Custom weapon from player **B O O B O O#6363**
+> **Mô tả**: Bộ suit của nhà Germa dành riêng cho người chị cả No.6 (biệt danh Poison Pink). Nó giúp tối ưu tốc độ cho Poison Pink, tăng khả năng bay lượn giúp phòng thủ tốt hơn và khả năng đánh chớp nhoáng. -- Custom weapon from player **B O O B O O#6363**
 >
 > **Nguyên tố**: ![:fi:](https://cdn.discordapp.com/emojis/702510320064921641.webp?size=20\&quality=lossless)\
 > **Tỉ lệ xuất hiện**: `0.25%`\
@@ -81,7 +81,7 @@ Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa l�
 
 
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=30\&height=30) 👾 Atom.'s No.6 Suit
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) 👾 Atom.'s No.6 Suit
 >
 > **ID**: `861` \
 > **Biệt danh**: ![:SuitNo6:](https://cdn.discordapp.com/emojis/810055238315933726.webp?size=20\&quality=lossless) Poison-Pink Suit \
