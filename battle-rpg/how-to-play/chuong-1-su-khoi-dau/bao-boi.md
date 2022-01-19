@@ -126,18 +126,78 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 {% tab title="Mini Tank" %}
 **Mini Tank:** Như mô tả của nó, chỉ là một bảo bối nhỏ loại **QN** khá dễ kiếm, nhưng mang lại cho bạn khả năng tăng sát thương mỗi 4 turn. Nếu bạn có thể có cho mình 256 mini tank 1\*, bạn có thể dung luyện lên 5\* để có được kỹ năng: Tăng `45% * 90% = 40.5%` Sát thương cơ bản cho đòn đánh tiếp theo.
 
-![Bảo bối Mini Tank](../../.gitbook/assets/image%20\(15\).png)
+
+
+> **BATTLE GADGET**\
+> ****
+>
+> ![:tank390:](https://cdn.discordapp.com/emojis/705121155195076628.webp?size=40\&quality=lossless) Mini Tank
+>
+> **ID cố định**: `11` \
+> **Mô tả**: small tank but big power \
+> **Loại**: ![:qn:](https://cdn.discordapp.com/emojis/693699122657493032.webp?size=40\&quality=lossless) \
+> **Kĩ năng**: **45%** ![:DMG\_TMP\_INC:](https://cdn.discordapp.com/emojis/700920498099322981.webp?size=40\&quality=lossless) `Tăng tạm thời 30/35/45/60/90% sát thương bản thân trong 1 lượt`&#x20;
+>
+> **Tỉ lệ xuất hiện**: `50%` \
+> **Mana tiêu thụ**: `40` \
+> **Thời gian hồi chiêu**: `4` \
+> **Yêu cầu cấp độ**: `0` \
+> **Khả năng giao dịch**: `true` \
+> **Chỉ dành Premium**: `false` \
+> **Ra lò**: `true`
+>
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `5`[![Image](https://media.discordapp.net/attachments/704336314559889521/705121049246695465/tank390.png?width=64\&height=47)](https://cdn.discordapp.com/attachments/704336314559889521/705121049246695465/tank390.png)`5`
 {% endtab %}
 
 {% tab title="Camera" %}
 **Camera:** Sở hữu kỹ năng cực kỳ hữu dụng cho cả PVP và PVE, hãy thử tưởng tượng bạn copy thành công kỹ năng hạng **`SS`** của Boss mà bình thường bạn không bao giờ được sở hữu và sử dụng nó. ^^.
 
-![Bảo bối Camera](../../.gitbook/assets/image%20\(16\).png)
+> BATTLE GADGET\
+> \
+> ![📷](https://canary.discord.com/assets/6c895a6898d73cc30959ac78c67c2ddf.svg) Camera
+>
+> **ID cố định**: `14` \
+> **Mô tả**: \
+> **Loại**: ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.webp?size=40\&quality=lossless) \
+> **Kĩ năng**: **30%** ![:SKILL\_COPY:](https://cdn.discordapp.com/emojis/708716204663242762.webp?size=40\&quality=lossless) `Sao chép 01 kĩ năng của đối thủ và sử dụng nó trong 1 lượt với tỉ lệ 30/40/50/60/75%`&#x20;
+>
+> **Tỉ lệ xuất hiện**: `80%` \
+> **Mana tiêu thụ**: `25` \
+> **Thời gian hồi chiêu**: `4` \
+> **Yêu cầu cấp độ**: `0` \
+> **Khả năng giao dịch**: `true` \
+> **Chỉ dành Premium**: `false` \
+> **Ra lò**: `true`
+>
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `5`
 {% endtab %}
 
 {% tab title="Magic Clock" %}
 **Magic Clock:** Bảo bối với kỹ năng cướp lượt đi của đối thủ, giúp bạn nắm cho mình tỷ lệ thắng cao hơn khi có được 2 lượt đi liên tiếp
 
-![Bảo bối Magic Clock](../../.gitbook/assets/image%20\(14\).png)
+
+
+> BATTLE GADGET\
+>
+>
+> ![🕰️](https://canary.discord.com/assets/e75125914de0c65e43aab08786e23b06.svg) Magic Clock
+>
+> **ID cố định**: `5` \
+> ``**Mô tả**: \
+> **Loại**: ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.webp?size=40\&quality=lossless) \
+> **Kĩ năng**: **30%** ![:TURN\_STEAL:](https://cdn.discordapp.com/emojis/701257195639144578.webp?size=40\&quality=lossless) `Cướp lấy lượt đi tiếp theo của đối thủ với tỉ lệ 30/40/50/60/75%`&#x20;
+>
+> **Tỉ lệ xuất hiện**: `80%` \
+> **Mana tiêu thụ**: `80` \
+> **Thời gian hồi chiêu**: `4` \
+> **Yêu cầu cấp độ**: `0` \
+> **Khả năng giao dịch**: `true` \
+> **Chỉ dành Premium**: `false` \
+> **Ra lò**: `true`
+>
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `5`
 {% endtab %}
 {% endtabs %}
+
+
+
