@@ -4,7 +4,7 @@ description: 'À thì, thăm ngàn kẹt ngần.'
 
 # Chương 2: Thăm ngàn
 
-## Các lệnh cơ bản:
+## Các lệnh cơ bản
 
 {% hint style="warning" %}
 Cần thêm prefix của Doraemon trước các lệnh.  
@@ -30,4 +30,3 @@ Nhớ kiểm tra **cattask, catdaily, vote** mỗi 12h để không bỏ lỡ c�
 Hãy thăm ngàn kẹt ngần, phát triển bản thân và cùng chuyển qua giai đoạn tiếp theo.
 
 {% page-ref page="chuong-3-phat-trien.md" %}
-

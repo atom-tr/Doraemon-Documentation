@@ -45,8 +45,8 @@ Xem thông tin nhân vật bạn đang có: `catwp [ID hiện tại]`
 Các chỉ số:
 
 * **Yêu cầu cấp độ**: Cấp độ hiện tại của nhân vật bạn sở hữu phải đạt ngưỡng này mới có thể sữ dụng vũ khí.
-* Chỉ số cơ bản: ![](https://cdn.discordapp.com/emojis/689391397643747368.png?v=1&size=20)`damage` và ![](https://cdn.discordapp.com/emojis/689391171411247196.png?v=1&size=20)`shield` sẽ tăng mỗi khi bạn cường hóa vũ khí
-* Chỉ số mở rộng: ![](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1&size=20)`attack` ![](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1&size=20)`defense` ![](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1&size=20)`luck` ![](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1&size=20)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp (max +10) không tăng lên khi bạn cường hóa.
+* Chỉ số cơ bản: ![damage](https://cdn.discordapp.com/emojis/689391397643747368.png?v=1&size=20)`damage` và ![shield](https://cdn.discordapp.com/emojis/689391171411247196.png?v=1&size=20)`shield` sẽ tăng mỗi khi bạn cường hóa vũ khí
+* Chỉ số mở rộng: ![attack](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1&size=20)`attack` ![defense](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1&size=20)`defense` ![luck](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1&size=20)`luck` ![wisdom](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1&size=20)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp (max +10) không tăng lên khi bạn cường hóa.
 
 {% tabs %}
 {% tab title="catwp i [ID]" %}
@@ -75,7 +75,7 @@ VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 > Chỉ số cơ bản ![:da:](https://cdn.discordapp.com/emojis/689391397643747368.webp?size=20\&quality=lossless) `180` ![:sh:](https://cdn.discordapp.com/emojis/689391171411247196.webp?size=20\&quality=lossless) `50`\
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `60` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `25` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `35`
 >
-> [![](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)](https://media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png)
+> [![wp61](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)](https://media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png)
 {% endtab %}
 
 {% tab title="catwp [ID]" %}
@@ -104,7 +104,7 @@ catwp 861
 > Chỉ số cơ bản ![:da:](https://cdn.discordapp.com/emojis/689391397643747368.webp?size=20\&quality=lossless) `180(+168)` ![:sh:](https://cdn.discordapp.com/emojis/689391171411247196.webp?size=20\&quality=lossless) `50(+46)`\
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `60(+10)` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `25(+10)` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50(+10)` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `35(+10)`
 >
-> [![](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)](https://media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png)
+> [![861](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)](https://media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png)
 {% endtab %}
 {% endtabs %}
 

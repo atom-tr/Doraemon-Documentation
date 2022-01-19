@@ -21,4 +21,3 @@ Cấu trúc lệnh: `catlb [loại] [giới hạn] (-g)`
 catlb n 10
 catlb d 10 -g
 ```
-

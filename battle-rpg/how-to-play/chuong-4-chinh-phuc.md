@@ -27,7 +27,7 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 {% tab title="DOLLMANSTEIN" %}
 Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25)Bản đồ viễn chinh của 👾 Atom.
+> ![cata d](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
 > Thế giới: **DOLLMANSTEIN** \
 > Ải: `3/23` \
@@ -40,7 +40,7 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 > Chọn thế giới: `cata f [world] (-s stage)` \
 > Xem bản đồ: `cata [world]`
 >
-> [![](https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240\&height=240)](https://cdn.discordapp.com/attachments/698925345855897741/933210614908747857/map-1.png)
+> ![cata d](https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240\&height=240)
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -51,7 +51,7 @@ Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [
 {% tab title="Map Event" %}
 Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ xuất hiện trong một khoảng thời gian sự kiện.
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25)Bản đồ viễn chinh của 👾 Atom.
+> ![cata x](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
 > Thế giới: **X-MAS** \
 > Ải: `3/29` \
@@ -63,8 +63,8 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 >
 > Chọn thế giới: `cata f [world] (-s stage)` \
 > Xem bản đồ: `cata [world]`
-> 
-> [![](https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240\&height=240)](https://cdn.discordapp.com/attachments/698925345855897741/933211156322091068/map-2.png)
+>
+> [![cata x](https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240\&height=240)](https://cdn.discordapp.com/attachments/698925345855897741/933211156322091068/map-2.png)
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -91,7 +91,7 @@ Sử dụng `cathelp worldboss [lệnh con]` để xem chi tiết hơn
 * `info` | `i`: Xem trạng thái của boss và bảng xếp hạng sát thương đóng góp
 * `fight` | `f`:cùng đồng đội tham gia tấn công boss
 
-```
+```s
 catwb f [HOLLOWPOD|FOULMONSTER|MURKWRAITH]
 catwb i [H|F|M]
 ```
