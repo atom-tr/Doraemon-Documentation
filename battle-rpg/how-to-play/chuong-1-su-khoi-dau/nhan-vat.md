@@ -38,11 +38,11 @@ Hệ của mỗi nhân vật sẽ ảnh hưởng tới chỉ số của nhân v�
 {% tab title="catc i [ID]" %}
 Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng lệnh `catc i 60` hoặc `catc i Doramiga`
 
-
+<hr>
 > **BATTLE CHARACTER**
-> 
->  \
-> **![:Doramiga:](https://cdn.discordapp.com/emojis/805656824601903124.webp?size=20\&quality=lossless) **Doramiga**
+>
+>
+> ![:Doramiga:](https://cdn.discordapp.com/emojis/805656824601903124.webp?size=20\&quality=lossless) **Doramiga**
 >
 > **ID cố định**: `60` \
 > **Mô tả**: -- Custom character from player **oleanderzephyr#1746** \
@@ -54,7 +54,7 @@ Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng l�
 > **Ra lò**: `true`
 >
 > Chỉ số cơ bản ![:he:](https://cdn.discordapp.com/emojis/689390995426902085.webp?size=20\&quality=lossless) `700` ![:ma:](https://cdn.discordapp.com/emojis/689390782590877728.webp?size=20\&quality=lossless) `200`\
-> ``Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `30` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `20` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `20`
+> Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `30` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `20` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `20`
 >
 > ![](https://images-ext-1.discordapp.net/external/-dpb4cUlXoyQ96lVkylvsR8zzj7\_UbMYHgpNxQMpWhw/https/media.discordapp.net/attachments/656198632298774528/805651584897384498/c10.png?width=180\&height=240)
 {% endtab %}
@@ -64,7 +64,7 @@ Bằng lệnh này bạn có thể xem chi tiết chỉ số được cộng th�
 
 
 
-> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=30\&height=30)👾 Atom.'s Doramiga
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) 👾 Atom.'s Doramiga
 >
 > **ID**: `60` \
 > **Biệt danh**: ![:Doramiga:](https://cdn.discordapp.com/emojis/805656824601903124.webp?size=20\&quality=lossless) ![:Ki:](https://cdn.discordapp.com/emojis/815836431481438218.gif?size=20\&quality=lossless)![:ss:](https://cdn.discordapp.com/emojis/815836496124182539.gif?size=20\&quality=lossless) \
@@ -81,8 +81,6 @@ Bằng lệnh này bạn có thể xem chi tiết chỉ số được cộng th�
 > [![](https://images-ext-1.discordapp.net/external/-dpb4cUlXoyQ96lVkylvsR8zzj7\_UbMYHgpNxQMpWhw/https/media.discordapp.net/attachments/656198632298774528/805651584897384498/c10.png?width=180\&height=240)](https://media.discordapp.net/attachments/656198632298774528/805651584897384498/c10.png)
 {% endtab %}
 {% endtabs %}
-
-
 
 {% hint style="info" %}
 Flag tìm kiếm: **-n** tên, **-g** hệ, **-d** miêu tả, **-p** premium (0,1), **-e** emoji, **-sr** tỉ lệ xuất hiện, **-a** hiện tất cả.
