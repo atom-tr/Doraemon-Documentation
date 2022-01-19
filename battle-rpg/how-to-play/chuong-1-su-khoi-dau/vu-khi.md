@@ -52,9 +52,11 @@ Các chỉ số:
 {% tab title="catwp i [ID]" %}
 Lệnh để xem một vũ khí có trong game:
 
+<hr>
 VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 
 > **BATTLE WEAPON**
+>
 >
 > ![:SuitNo6:](https://cdn.discordapp.com/emojis/810055238315933726.webp?size=20\&quality=lossless) No.6 Suit
 >
@@ -79,9 +81,10 @@ VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 Xem thông tin chỉ số của vũ khí bạn đang sử hữu:\
 Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa lên 8, và chỉ số mở rộng bạn đã cường hóa.
 
-
+<hr>
 
 > ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) 👾 Atom.'s No.6 Suit
+>
 >
 > **ID**: `861` \
 > **Biệt danh**: ![:SuitNo6:](https://cdn.discordapp.com/emojis/810055238315933726.webp?size=20\&quality=lossless) Poison-Pink Suit \
