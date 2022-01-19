@@ -53,16 +53,16 @@ Các con boss này bạn có thể thách thức liên tục cùng thành viên 
 Bạn không thể thách thức các boss team 2 nếu team bạn có 3 hoặc 4 người.
 {% endhint %}
 
-| Boss        |  Level | Cooldown | Command  |
-| ----------- | -------| -------- | -------- |
-| `DBRA`      | 10     |          | `f b db` |
-| `KING CRAB` | 15     | 4m45s    | `f b k`  |
-| `PSY DUCK`  | 20     | 8m20s    | `f b p`  |
-| `DRAB`      | 25     |          | `f b dr` |
-| `EAGLE`     | 25     |          | `f b e`  |
-| `DUGLE`     | 30     |          | `f b du` |
-| `CEAGLE`    | 30     |          | `f b c`  |
-| `TUSULEA`   | 30     | 10m      | `f b t`  |
+| Boss        |  Level | Command  | Cooldown |
+| ----------- | ------ | -------- | -------- |
+| `DBRA`      | 10     | `f b db` |          |
+| `KING CRAB` | 15     | `f b k`  | 4m45s    |
+| `PSY DUCK`  | 20     | `f b p`  | 8m20s    |
+| `DRAB`      | 25     | `f b dr` |          |
+| `EAGLE`     | 25     | `f b e`  |          |
+| `DUGLE`     | 30     | `f b du` |          |
+| `CEAGLE`    | 30     | `f b c`  |          |
+| `TUSULEA`   | 30     | `f b t`  | 10m      |
 {% endtab %}
 {% endtabs %}
 
