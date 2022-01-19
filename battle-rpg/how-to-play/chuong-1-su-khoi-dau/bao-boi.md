@@ -173,7 +173,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 
 <hr>
 
-> BATTLE GADGET
+> **BATTLE GADGET**
 >
 >
 > 📷 Camera
@@ -199,7 +199,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 
 <hr>
 
-> BATTLE GADGET\
+> **BATTLE GADGET**
 >
 >
 > 🕰️ Magic Clock
