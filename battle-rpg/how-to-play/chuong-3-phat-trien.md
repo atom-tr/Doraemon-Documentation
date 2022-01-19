@@ -23,9 +23,13 @@ description: Cùng bạn bè, đồng đội chơi để nhận thêm phần th�
 Ở mỗi cấp độ, houtu sẽ có tỷ lệ thành công khi sử dụng khác nhau. Hãy sử dụng số lượng lớn houtu để tăng tỷ lệ thành công.
 {% endhint %}
 
+Chi tiết hơn về vũ khí:
+{% content-ref url="chuong-1-su-khoi-dau\vu-khi.md" %}
+
 #### Bảo bối
 
-Chỉ số cơ bản của bảo bối chính là % của các kỹ năng. Khi nâng bảo bối lên các cấp sẽ nhận được mức % tương ứng. Để nâng cấp bảo bối, bạn cần 4 bảo bối cùng loại và cấp độ.
+Chỉ số cơ bản của bảo bối chính là % của các kỹ năng. Khi nâng bảo bối lên các cấp sẽ nhận được mức % tương ứng. Để nâng cấp bảo bối, bạn cần 4 bảo bối cùng loại và cấp độ. Xem thêm chi tiết về bảo bối ở phần:
+{% content-ref url="chuong-1-su-khoi-dau\bao-boi.md" %}
 
 ### Chỉ số mở rộng
 

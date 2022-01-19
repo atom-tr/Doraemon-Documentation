@@ -112,6 +112,10 @@ catwp 861
 
 Để nâng cấp vũ khí của bạn, bạn cần sử dụng Houtu (gem 3) để nâng cấp. Số lượng và tỷ lệ sẽ phụ thuộc vào cấp độ hiện tại của vũ khí bạn. Số lượng Huotu cần để 100% nâng cấp thành công được tính bằng phép tính: `3^[Cấp hiện tại]`
 
+```s
+catup wp [ID hiện tại của wp] 3 [số lượng gem 3]
+```
+
 {% hint style="success" %}
 Vũ khí sẽ có thể nâng cấp 8 lần - **Cấp 9 là cấp cao nhất**
 {% endhint %}
