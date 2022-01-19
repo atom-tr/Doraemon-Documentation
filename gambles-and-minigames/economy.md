@@ -6,7 +6,7 @@ Doreamon's catnip currency system used for gamble games.
 
 | Command     | Descriptions                                                                                                               | Aliases                                                   |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| `give`      | <p>Tặng catnip/dora cho người khác:</p><ul><li>catgivenip @user &#x3C;value></li><li>catgivedorayaki @user &#x3C;value></li></ul> | <ul><li>`gn`</li><li>`gd`</li></ul> |
+| `give`      | <p>Tặng catnip/dora cho người khác:</p><ul><li>`catgivenip @user <value>`</li><li>`catgivedorayaki @user <value>`</li></ul> | <ul><li>`gn`</li><li>`gd`</li></ul> |
 | `daily`     | Điểm danh (mỗi 12h)                                                                                            | `daily` `high`                                            |
 | `lixi`      | Lì xì                                                                                              | `lx` `giveandtake` `gat`                                  |
 | `nip`       | Kiểm tra nip hiện tại của bạn                                                                                                         | `nip`                                                     |

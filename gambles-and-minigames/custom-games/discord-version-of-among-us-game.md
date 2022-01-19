@@ -16,7 +16,7 @@ Subcommands (8): `info`, `join`, `list`, `mine`, `new`, `setting`, `start`, `lea
 Gõ `cathelp amongwumpii [subcommand]` để xem hướng dẫn về các subcommand.
 {% endhint %}
 
-## Subcommand informations.
+## Subcommand informations
 
 | Subcommand | Details                                                                                                                                                                                                                                                                                                                                                                   | Aliases | command                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------- |
@@ -25,7 +25,7 @@ Gõ `cathelp amongwumpii [subcommand]` để xem hướng dẫn về các subcom
 | list       | Xem danh sách phòng đang có                                                                                                                                                                                                                                                                                                                                                      | `ls`    | `cataw list`                  |
 | mine       | Kiểm tra thông tin phòng hiện tại bạn đang tham gia                                                                                                                                                                                                                                                                                                                                                   | `me`    | `cataw mine`                  |
 | new        | Tạo phòng mới                                                                                                                                                                                                                                                                                                                                                           | `n`     | `cataw new`                   |
-| setting    | <p>Thay đổi cài đặt của phòng game. </p><p>Tuỳ chọn: </p><p><code>impostor</code>, </p><p><code>confirmEjected</code>, </p><p><code>totalTasks</code>, </p><p><code>voteTime</code>, </p><p><code>killCooldown</code>, </p><p><code>emergencyCooldown</code>, </p><p><code>maxCalls</code>, </p><p><code>visionRate</code> (max: 100).</p><p> Value must be a number.</p> | `set`   | `cataw <option> <value(int)>` |
+| setting    | <p>Thay đổi cài đặt của phòng game. Tuỳ chọn: `impostor`, `confirmEjected`, `totalTasks`, `voteTime`, `killCooldown`, `emergencyCooldown`, `maxCalls`, `visionRate` (max: 100). Value must be a number.</p> | `set`   | `cataw <option> <value(int)>` |
 | start      | Bắt đầu game phòng bạn đang host                                                                                                                                                                                                                                                                                                                                                   | `s`     | `cataw start`                 |
 | leave      | Thoát phòng                                                                                                                                                                                                                                                                                                                                                                | `l`     | `cataw leave`                 |
 
@@ -37,7 +37,7 @@ Hãy chắc chắn bạn có bật **Allow direct messages from server members**
 
 ### B1: Tạo phòng game
 
-```sh
+```s
 cataw new
 ```
 
@@ -47,7 +47,7 @@ cataw new
 
 Cài đặt có thể chỉnh sửa: `impostor`, `confirmEjected`, `totalTasks`, `voteTime`, `killCooldown`, `emergencyCooldown`, `maxCalls`, `visionRate` (max: 100). **Giá trị đằng sau bắt buộc là số.** Ví dụ dưới chúng ta chỉnh số impostor thành 5:
 
-```
+```s
 cataw setting impostor 5
 ```
 
@@ -61,7 +61,7 @@ Số lượng impostor phải ít hơn Crewmate
 
 ID phòng bạn sẽ nhận được ngay từ bước 1, hoặc bạn có thể kiểm tra lại với lệnh `cataw mine`. Người khác có thể tham gia phòng với lệnh:
 
-```
+```s
 cataw join 5VNS
 ```
 
@@ -69,7 +69,7 @@ Với 5VNS là ID phòng game.
 
 ### B4: Bắt đầu game
 
-```
+```s
 cataw start
 ```
 
@@ -84,11 +84,11 @@ Mỗi người chơi sẽ được ramdom với một role khác nhau. Các lệ
 {% tabs %}
 {% tab title="Impostor" %}
 
-#### Role
+#### Role Impostor
 
 Tấn công Crewmate, bằng bất cứ giá nào hãy khiến họ không thể hoàn thành toàn bộ task.
 
-#### Command
+#### Command Impostor
 
 `NEXT` or `BACK` di chuyển tới phòng bên cạnh\
 `REPORT` lệnh có thể sử dụng khi bạn phát hiện xác ở trong room\
@@ -97,23 +97,23 @@ Tấn công Crewmate, bằng bất cứ giá nào hãy khiến họ không thể
 `KILL`: Tấn công Crewmate chung phòng\
 `TELEPORT`: Dịch chuyển tới phòng đối diện
 
-![](../../.gitbook/assets/en\_cataw\_impostor.png)
+![impostor](../../.gitbook/assets/en\_cataw\_impostor.png)
 
 {% endtab %}
 
 {% tab title="Crewmate" %}
 
-#### Role
+#### Role Crewmate
 
 Hoàn thành tất cả các task hoặc tìm ra được toàm bộ Impostor đang trà trộn.
 
-#### Command
+#### Command Crewmate
 
 `NEXT` or `BACK` di chuyển qua phòng bên cạnh\
 `REPORT` lệnh có thể sử dụng khi bạn phát hiện xác ở trong room\
 `TASK`: Hoàn thành task của crewmate
 
-![](../../.gitbook/assets/en\_cataw\_crewmate.png)
+![crewmate](../../.gitbook/assets/en\_cataw\_crewmate.png)
 {% endtab %}
 
 {% endtabs %}
@@ -121,4 +121,3 @@ Hoàn thành tất cả các task hoặc tìm ra được toàm bộ Impostor đ
 {% hint style="info" %}
 Tất cả người chơi có thể join chung một phòng voice để cùng chơi game. Như vậy việc tranh luận ai là Impostor sẽ sôi động hơn.
 {% endhint %}
-
