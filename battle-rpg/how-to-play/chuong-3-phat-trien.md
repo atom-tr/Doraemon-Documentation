@@ -53,7 +53,7 @@ Các con boss này bạn có thể thách thức liên tục cùng thành viên 
 Bạn không thể thách thức các boss team 2 nếu team bạn có 3 hoặc 4 người.
 {% endhint %}
 
-| Boss        |  Level | Command  | Cooldown |
+| Boss        |  <div style="width:90px">Level</div> | Command  | Cooldown |
 | ----------- | ------ | -------- | -------- |
 | `DBRA`      | 10     | `f b db` |          |
 | `KING CRAB` | 15     | `f b k`  | 4m45s    |
