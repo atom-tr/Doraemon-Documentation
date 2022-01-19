@@ -24,12 +24,12 @@ Tất cả các boss có chia sẻ thời gian hồi với nhau.
 Những con boss ngày là những con boss cực kì mạnh mẽ, với 3 mức độ: Dễ, Vừa và Khó.\
 Đối với những con boss này, mỗi ngày bạn sẽ chỉ có thể đánh bại nó và lãnh thưởng 1 lần ở mỗi mức độ.
 
-| BOSS NAME | Ngày trong tuần (GMT+7) | Command   |
-| --------- | ----------------------- | --------- |
-| `WA`      | Chủ nhật, Thứ 2         | `f b wae` |
-| `WB`      | Thứ 3, 4                | `f b wbe` |
-| `WC`      | Thứ 5                   | `f b wce` |
-| `WE`      | Thứ 6, 7                | `f b wee` |
+| BOSS  | Command   | Ngày trong tuần (GMT+7) |
+| ----- | --------- | ----------------------- |
+| `WA`  | `f b wae` | Chủ nhật, Thứ 2         |
+| `WB`  | `f b wbe` | Thứ 3, 4                |
+| `WC`  | `f b wce` | Thứ 5                   |
+| `WE`  | `f b wee` | Thứ 6, 7                |
 
 {% hint style="info" %}
 Boss ngày không yêu cầu level các thành viên trong team.
@@ -40,7 +40,7 @@ Boss ngày không yêu cầu level các thành viên trong team.
 Các con boss này bạn có thể thách thức liên tục cùng thành viên team, cùng nhau nhận thưởng. Cả team sẽ được nhận exp.
 
 | Boss    | Level | Command  | Cooldown |
-| ------- | ------| -------- | -------- |
+| ------- | ----- | -------- | -------- |
 | `DEER`  | 5     | `f b de` |          |
 | `ZEBRA` | 10    | `f b z`  |          |
 | `ANT`   | 15    | `f b a`  |          |
@@ -53,16 +53,16 @@ Các con boss này bạn có thể thách thức liên tục cùng thành viên 
 Bạn không thể thách thức các boss team 2 nếu team bạn có 3 hoặc 4 người.
 {% endhint %}
 
-| Boss        |  <div style="width:90px">Level</div> | Command  | Cooldown |
-| ----------- | ------ | -------- | -------- |
-| `DBRA`      | 10     | `f b db` |          |
-| `KING CRAB` | 15     | `f b k`  | 4m45s    |
-| `PSY DUCK`  | 20     | `f b p`  | 8m20s    |
-| `DRAB`      | 25     | `f b dr` |          |
-| `EAGLE`     | 25     | `f b e`  |          |
-| `DUGLE`     | 30     | `f b du` |          |
-| `CEAGLE`    | 30     | `f b c`  |          |
-| `TUSULEA`   | 30     | `f b t`  | 10m      |
+| Boss        | Level | Command  | Cooldown |
+| ----------- | ----- | -------- | -------- |
+| `DBRA`      | 10    | `f b db` |          |
+| `KING CRAB` | 15    | `f b k`  | 4m45s    |
+| `PSY DUCK`  | 20    | `f b p`  | 8m20s    |
+| `DRAB`      | 25    | `f b dr` |          |
+| `EAGLE`     | 25    | `f b e`  |          |
+| `DUGLE`     | 30    | `f b du` |          |
+| `CEAGLE`    | 30    | `f b c`  |          |
+| `TUSULEA`   | 30    | `f b t`  | 10m      |
 {% endtab %}
 {% endtabs %}
 
