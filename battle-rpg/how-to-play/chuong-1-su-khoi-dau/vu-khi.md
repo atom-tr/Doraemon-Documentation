@@ -51,7 +51,7 @@ Các chỉ số:
 {% tab title="catwp i [ID]" %}
 Lệnh để xem một vũ khí có trong game:
 
-VD&#x20;
+VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 
 > **BATTLE WEAPON**
 >
