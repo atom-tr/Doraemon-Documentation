@@ -8,8 +8,6 @@ Bạn có thể có bằng cách mở `starter pack` mua `weapon box` ở shop h
 [vu-khi.md](how-to-play/chuong-1-su-khoi-dau/vu-khi.md)
 {% endcontent-ref %}
 
-![](../.gitbook/assets/catlw\_i\_d.png)
-
 ## Xin gợi ý cho bộ Bảo bối (Gadget) cho người mới?
 
 Bộ Gadgets gợi ý dành cho người mới: Mini Tank (_QN_), Camera (_UN_), Magic Clock (_UN_)
