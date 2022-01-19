@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 ---
 description: 'Cùng bạn bè, đồng đội chơi để nhận thêm phần thưởng.'
 ---
