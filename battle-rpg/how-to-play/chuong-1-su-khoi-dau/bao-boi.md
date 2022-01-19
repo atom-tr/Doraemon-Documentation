@@ -145,6 +145,8 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 
 > **BATTLE GADGET**
 >
+> [![Image](https://media.discordapp.net/attachments/704336314559889521/705121049246695465/tank390.png?width=64\&height=47)](https://cdn.discordapp.com/attachments/704336314559889521/705121049246695465/tank390.png)
+{% endtab %}
 >
 > ![:tank390:](https://cdn.discordapp.com/emojis/705121155195076628.webp?size=20\&quality=lossless) Mini Tank
 >
@@ -161,8 +163,8 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > **Chỉ dành Premium**: `false` \
 > **Ra lò**: `true`
 >
-> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `5`[![Image](https://media.discordapp.net/attachments/704336314559889521/705121049246695465/tank390.png?width=64\&height=47)](https://cdn.discordapp.com/attachments/704336314559889521/705121049246695465/tank390.png)`5`
-{% endtab %}
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `5`
+>
 
 {% tab title="📷 Camera" %}
 **Camera:** Sở hữu kỹ năng cực kỳ hữu dụng cho cả PVP và PVE, hãy thử tưởng tượng bạn copy thành công kỹ năng hạng **`SS`** của Boss mà bình thường bạn không bao giờ được sở hữu và sử dụng nó. ^^.
