@@ -58,6 +58,9 @@ catgg i 50
 >
 > ![:gomu:](https://cdn.discordapp.com/emojis/818737775418540052.gif?size=20\&quality=lossless) **Gomu Gomu no M**
 >
+>![Gomu Gomu no Mi](https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=166\&height=166)
+>
+>
 > **ID cố định**: `50` \
 > **Mô tả**: The Gomu Gomu no Mi is a Paramecia-type Devil Fruit that gives the user's body the properties of rubber, making the user a Rubber Human (ゴム人間 Gomu Ningen?). It was originally a treasure that Shanks and his crew took from an unspecified enemy, but was accidentally eaten by the series protagonist Monkey D. Luffy. In the second version of Romance Dawn, it originally belonged to Luffy's grandpa who took it from an unspecified enemy. -- Custom from 👾 Atom.#1011. - Images by mewiyev
 >
@@ -73,8 +76,6 @@ catgg i 50
 >
 > Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `8`
 >
-
-![Gomu Gomu no Mi](https://images-ext-2.discordapp.net/external/qc\_rhCAg9wcQWGEjdg3htZJtQNbif0SnadkpsiNKyWg/https/media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=64\&height=64)
 {% endtab %}
 
 {% tab title="catg [ID]" %}
@@ -87,6 +88,8 @@ catgg 250
 <hr>
 
 > ![Avatar](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) 👾 Atom.#1011's Gomu Gomu no Mi
+>
+>![Gomu Gomu no Mi](https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=166\&height=166)
 >
 >
 > **ID**: `250`
@@ -104,7 +107,6 @@ catgg 250
 >
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `8`
 
-![Gomu Gomu no Mi](https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=166\&height=166)
 
 {% endtab %}
 {% endtabs %}
@@ -146,7 +148,6 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > **BATTLE GADGET**
 >
 > [![Image](https://media.discordapp.net/attachments/704336314559889521/705121049246695465/tank390.png?width=64\&height=47)](https://cdn.discordapp.com/attachments/704336314559889521/705121049246695465/tank390.png)
-{% endtab %}
 >
 > ![:tank390:](https://cdn.discordapp.com/emojis/705121155195076628.webp?size=20\&quality=lossless) Mini Tank
 >
@@ -165,6 +166,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 >
 > Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `5`
 >
+{% endtab %}
 
 {% tab title="📷 Camera" %}
 **Camera:** Sở hữu kỹ năng cực kỳ hữu dụng cho cả PVP và PVE, hãy thử tưởng tượng bạn copy thành công kỹ năng hạng **`SS`** của Boss mà bình thường bạn không bao giờ được sở hữu và sử dụng nó. ^^.
