@@ -90,7 +90,7 @@ Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 >
 > Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `8`
 
-![](https://images-ext-2.discordapp.net/external/qc\_rhCAg9wcQWGEjdg3htZJtQNbif0SnadkpsiNKyWg/https/media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=64\&height=64)
+![](https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=64\&height=64)
 {% endtab %}
 {% endtabs %}
 
