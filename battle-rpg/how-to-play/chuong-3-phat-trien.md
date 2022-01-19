@@ -19,6 +19,10 @@ description: Cùng bạn bè, đồng đội chơi để nhận thêm phần th�
 
 Để nâng cấp chỉ số cơ bản của vũ khí, bạn cần Houtu (Gem 3). Mỗi cấp độ vũ khí sẽ cần một lượng Houtu để nâng cấp. Số lượng Houtu cần có thể tính bằng công thức: `Houtu = 3 ^ (Cấp độ vũ khí hiện tại)`.
 
+{% hint style="warning" %}
+Ở mỗi cấp độ, houtu sẽ có tỷ lệ thành công khi sử dụng khác nhau. Hãy sử dụng số lượng lớn houtu để tăng tỷ lệ thành công.
+{% endhint %}
+
 #### Bảo bối
 
 Chỉ số cơ bản của bảo bối chính là % của các kỹ năng. Khi nâng bảo bối lên các cấp sẽ nhận được mức % tương ứng. Để nâng cấp bảo bối, bạn cần 4 bảo bối cùng loại và cấp độ.
@@ -34,13 +38,19 @@ Loại chỉ số này không tăng theo cấp độ của trang bị, mà cần
 
 Loại gem tương ứng với các chỉ số này:
 
-- `attack`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698570646057255014.webp?size=20&quality=lossless)
-- `defense`: Azure Dragon ![Tiny Azure Dragon](https://cdn.discordapp.com/emojis/698566971549286462.webp?size=20&quality=lossless)
-- `luck`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698571667441451008.webp?size=20&quality=lossless)
-- `wisdom`: Blue Tortoise ![Tiny Blue Tortoise](https://cdn.discordapp.com/emojis/698566950229508138.webp?v=1&size=20&quality=lossless)
+- ![attack](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1&size=20)`attack`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698570646057255014.webp?size=20&quality=lossless)
+- ![defense](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1&size=20)`defense`: Azure Dragon ![Tiny Azure Dragon](https://cdn.discordapp.com/emojis/698566971549286462.webp?size=20&quality=lossless)
+- ![luck](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1&size=20)`lu`luck`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698571667441451008.webp?size=20&quality=lossless)
+- ![wisdom](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1&size=20)`wisdom`: Blue Tortoise ![Tiny Blue Tortoise](https://cdn.discordapp.com/emojis/698566950229508138.webp?v=1&size=20&quality=lossless)
 
-Mỗi loại gem sẽ có 3 cấp: `Tiny` (`+2`) > `Flawless` (`+5`) > `Royal` (`+8`) > `Galaxy` (`+10`) - tương ứng số chỉ số cộng thêm
-Lệnh cường hoá: 
+Mỗi loại gem sẽ có 4 cấp: `Tiny` (`+2`) > `Flawless` (`+5`) > `Royal` (`+8`) > `Galaxy` (`+10`) - tương ứng số chỉ số cộng thêm
+Bạn sẽ cần 4 gem để nâng gem lên cấp độ cao hơn. Lệnh:
+
+```s
+catg cb [id gem] [số lượng]
+```
+
+Lệnh cường hoá chỉ số mở rộng:
 
 ```s
 catup [id trang bị] [id loại gem] [số lượng gem]
