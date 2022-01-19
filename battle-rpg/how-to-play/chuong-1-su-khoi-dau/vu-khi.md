@@ -74,9 +74,24 @@ VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 
 {% tab title="catwp [ID]" %}
 Xem thông tin chỉ số của vũ khí bạn đang sử hữu:\
-Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa lên 2, và chỉ số mở rộng bạn đã cường hóa.
+Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa lên 8, và chỉ số mở rộng bạn đã cường hóa.
 
-![SIG P228](../../.gitbook/assets/image%20\(9\)%20\(1\).png)
+
+
+> ![](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp)👾 Atom.'s No.6 Suit
+>
+> **ID**: `861` \
+> **Biệt danh**: ![:SuitNo6:](https://cdn.discordapp.com/emojis/810055238315933726.webp?size=40\&quality=lossless) Poison-Pink Suit \
+> **Mô tả**: Bộ suit của nhà Germa dành riêng cho người chị cả No.6 (biệt danh Poison Pink). Nó giúp tối ưu tốc độ cho Poison Pink, tăng khả năng bay lượn giúp phòng thủ tốt hơn và khả năng đánh chớp nhoáng. -- Custom weapon from player **B O O B O O#6363**&#x20;
+>
+> **Nguyên tố**: ![:fi:](https://cdn.discordapp.com/emojis/702510320064921641.webp?size=40\&quality=lossless) \
+> **Hạn sử dụng**: Vĩnh viễn \
+> **Cấp cường hóa**: ![:8:](https://cdn.discordapp.com/emojis/695465557134147604.webp?size=40\&quality=lossless) \
+> **Số lượng**: 1 Sử dụng \
+> `cathelp weapon` để xem danh sách lệnh liên quan
+>
+> Chỉ số cơ bản![:da:](https://cdn.discordapp.com/emojis/689391397643747368.webp?size=40\&quality=lossless) `180(+168)` ![:sh:](https://cdn.discordapp.com/emojis/689391171411247196.webp?size=40\&quality=lossless) `50(+46)`\
+> ``Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=40\&quality=lossless) `60(+10)` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=40\&quality=lossless) `25(+10)` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=40\&quality=lossless) `50(+10)` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=40\&quality=lossless) `35(+10)`[![](https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306\&height=240)](https://media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png)
 {% endtab %}
 {% endtabs %}
 
