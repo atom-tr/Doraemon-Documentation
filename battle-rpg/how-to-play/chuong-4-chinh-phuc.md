@@ -75,7 +75,7 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 > Xem bản đồ: `cata [world]`
 >
 > ![cata d](https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240\&height=240)
-<br>
+>
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -101,7 +101,7 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 > Xem bản đồ: `cata [world]`
 >
 > ![cata x](https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240\&height=240)
-<br>
+>
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
