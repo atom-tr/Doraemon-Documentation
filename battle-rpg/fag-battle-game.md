@@ -1,4 +1,4 @@
-# FAG - Battle Game
+# ❔ FAG - Battle Game
 
 ## Làm sao để có Vũ khí?
 
@@ -34,4 +34,6 @@ Bạn có thể có bằng cách:
 4. Cờ bạc
 5. Đi xin. ^^
 
-{% content-ref url="../gambles-and-minigames\gambles.md" %}
+{% content-ref url="../gambles-and-minigames/gambles.md" %}
+[gambles.md](../gambles-and-minigames/gambles.md)
+{% endcontent-ref %}

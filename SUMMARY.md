@@ -5,14 +5,14 @@
 
 ## Community Utility
 
-* [🇻🇳 Language & Prefix](community-utility/language-and-prefix.md)
+* [🇻🇳 🇻🇳 Language & Prefix](community-utility/language-and-prefix.md)
 * [🛠 Feature Channels](community-utility/feature-channels/README.md)
   * [Nối chữ](community-utility/feature-channels/noi-chu.md)
   * [Counting channel](community-utility/feature-channels/counting-channel.md)
 * [💬 Confessions](community-utility/confessions/README.md)
   * [Get started](community-utility/confessions/get-started.md)
 * [🎙 Temp Voice Channels](community-utility/temp-voice-channels.md)
-* [🎉 Giveaways](community-utility/giveaways/README.md)
+* [Giveaways](community-utility/giveaways/README.md)
   * [Task](community-utility/giveaways/task.md)
   * [🎁 Giveaways có điều kiện](community-utility/giveaways/giveaways-co-dieu-kien.md)
 * [Level](community-utility/level.md)
