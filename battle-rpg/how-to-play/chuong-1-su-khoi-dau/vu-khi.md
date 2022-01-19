@@ -53,6 +53,7 @@ Các chỉ số:
 Lệnh để xem một vũ khí có trong game:
 
 <hr>
+
 VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 
 > **BATTLE WEAPON**
