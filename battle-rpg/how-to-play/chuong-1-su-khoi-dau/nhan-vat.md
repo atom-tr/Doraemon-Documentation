@@ -39,11 +39,10 @@ Hệ của mỗi nhân vật sẽ ảnh hưởng tới chỉ số của nhân v�
 Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng lệnh `catc i 60` hoặc `catc i Doramiga`
 
 
-
 > **BATTLE CHARACTER**
->
-> ****\
-> ****![:Doramiga:](https://cdn.discordapp.com/emojis/805656824601903124.webp?size=40\&quality=lossless) **Doramiga**
+> 
+>  \
+> **![:Doramiga:](https://cdn.discordapp.com/emojis/805656824601903124.webp?size=40\&quality=lossless) **Doramiga**
 >
 > **ID cố định**: `60` \
 > **Mô tả**: -- Custom character from player **oleanderzephyr#1746** \
