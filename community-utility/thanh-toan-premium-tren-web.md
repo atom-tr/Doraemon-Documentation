@@ -88,12 +88,13 @@ Lấy ID bằng cách dùng lệnh `catstatus` trong server
 
 Link: Dashboard > Premium > Orders
 
-* Các trạng thái của order:
-  * Success/Thành công: đã hoàn thành
-  * Processing/Đang xử lý: hệ thống đang xử lý order, vui lòng đợi hoặc liên hệ support nếu đợi quá 10 phút
-  * Failed/Thất bại: nâng cấp lỗi, xem phản hồi ở cột Response để biết lý do. Ở cột Actions sẽ có 2 nút:
-    * Edit: sửa lại discord ID nếu ID không chính xác
-    * Retry: thử upgrade lại, chỉ dùng cho trường hợp Response thông báo người dùng chưa vào server, nếu đã vào thì bấm Retry để thử lại.&#x20;
+Các trạng thái của order:
+
+* _Success_/_Thành công_: đã hoàn thành
+* _Processing/Đang xử lý:_ hệ thống đang xử lý order, vui lòng đợi hoặc liên hệ support nếu đợi quá 10 phút
+* _Failed/Thất bại_: nâng cấp lỗi, xem phản hồi ở cột **Response** để biết lý do. Ở cột **Actions** sẽ có 2 nút:
+  * _Edit_: sửa lại discord ID nếu ID không chính xác
+  * _Retry_: thử upgrade lại, chỉ dùng cho trường hợp Response thông báo người dùng chưa vào server, nếu đã vào thì bấm Retry để thử lại.&#x20;
 
 {% hint style="info" %}
 Server hỗ trợ: <mark style="color:orange;">CAT</mark>
