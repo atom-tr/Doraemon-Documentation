@@ -1,11 +1,11 @@
 # Table of contents
 
-* [🆕 Getting Started...](README.md)
+* [Getting Started...](README.md)
 * [❔ FAQ - Guild](faq-guild.md)
 
 ## Community Utility
 
-* [🇻🇳 🇻🇳 🇻🇳 Language & Prefix](community-utility/language-and-prefix.md)
+* [🇻🇳 Language & Prefix](community-utility/language-and-prefix.md)
 * [🛠 Feature Channels](community-utility/feature-channels/README.md)
   * [Nối chữ](community-utility/feature-channels/noi-chu.md)
   * [Counting channel](community-utility/feature-channels/counting-channel.md)
