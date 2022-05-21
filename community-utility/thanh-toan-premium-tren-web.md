@@ -15,11 +15,11 @@ coverY: 0
 
 Chọn **Login with Discord** để liên kết với tài khoản Discord của bạn
 
-![Login](<../.gitbook/assets/image (1).png>)
+![Login](<../.gitbook/assets/image (4).png>)
 
 Chọn **Premium** để truy cập vào tính năng nâng cấp premium
 
-![HomePage](../.gitbook/assets/image.png)
+![HomePage](<../.gitbook/assets/image (1).png>)
 
 ### Top Up
 
@@ -48,6 +48,20 @@ Hiện có 3 nhóm gói Premium với chức năng chính như sau:&#x20;
   * Có cơ hội nhận được character/weapon/gadget premium, giảm thời gian chờ khi sử dụng lệnh catf,... hoặc được tạo character/weapon/gadget premium. Chi tiết tham khảo thêm tại từng gói.&#x20;
 * User Utility: Nâng cấp để nhận các ưu đãi như khi sử dụng lệnh catspeak và tạo giveaway có điều kiện không giới hạn mỗi ngày ở tất cả server có bot. Gói II được thêm 1 soundboard vào danh sách (Voice tương tự như cats sqsq,... như hiện tại)&#x20;
 * Guild Utility: Nâng cấp để thành viên trong server nhận các ưu đãi như có thể sử dụng tính năng Duyệt trước khi đăng của Confession, sử dụng catspeak không giới hạn ký tự mỗi ngày,...
+
+{% tabs %}
+{% tab title="User Battle" %}
+![](<../.gitbook/assets/image (2).png>)
+{% endtab %}
+
+{% tab title="User Utility" %}
+![](<../.gitbook/assets/image (3).png>)
+{% endtab %}
+
+{% tab title="Server Utility" %}
+![](<../.gitbook/assets/image (6).png>)
+{% endtab %}
+{% endtabs %}
 
 
 
