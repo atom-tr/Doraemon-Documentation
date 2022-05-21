@@ -35,6 +35,14 @@ Lựa chọn phương thức theo hướng dẫn chi tiết bên dưới
 2. **BANK**: chuyển đúng nội dung, cộng tiền trong 15 phút, tag admin để xử lý nhanh hơn,...
 3. **PAYPAL**: tương tự bank&#x20;
 4. **Patreon**:
+   * Trường hợp chưa mua trên patreon hoặc muốn nạp thêm:
+     * Click vào link, chuyển đến trang thanh toán Patreon, nhập số tiền muốn nạp, không cần quan tâm gói hiện tại.
+
+![](https://lh5.googleusercontent.com/pkSOLvu3vFGCHXWGqDpBpEn1vIjl-KR8cq3gqkwJhbNtzQutxfe4gJKVADkIOLcdiFYPOL00VwxqPK6yqzWKuSjWTtNtBhfClzjdn9XYkNu9LXa4qh-CZseUTTnt782kFnaWO4UhHV2Y80AwaA)
+
+* <mark style="color:red;">Sau khi đã mua trên patreon:</mark>
+  * Vào [Dashboard > Premium > Patreon](https://doraemon.acustombot.com/premium/patreon) kết nối tài khoản patreon
+  * Redeem số tiền tương ứng đã mua trên patreon thành số dư trên web
 
 ### Upgrade Premium
 
