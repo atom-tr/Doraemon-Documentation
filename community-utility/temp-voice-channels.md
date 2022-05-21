@@ -1,4 +1,4 @@
-# Temp Voice Channels
+# 🎙 Temp Voice Channels
 
 Let members customize their voice "room".
 
@@ -25,4 +25,4 @@ Command `voice` with subcommands:
 * `unblock` Unlock someone
 * `join` Join with other user voice chat no matter where they are
 
-\
+\\

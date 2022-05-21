@@ -1,4 +1,4 @@
-# 🎉 Giveaways
+# 🎁 Giveaways
 
 ## Details
 

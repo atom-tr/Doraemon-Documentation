@@ -2,9 +2,7 @@
 description: Khiến các channel trong server bạn trở nên thú vị và nhiều tính năng
 ---
 
-# Feature Channels
-
-
+# 🛠 Feature Channels
 
 Make your channels become more powerful and interesting
 

@@ -1,7 +1,6 @@
 ---
-description: >-
-  Conditional Giveaways
+description: Conditional Giveaways
 ---
 
-# Giveaways có điều kiện
+# 🎁 Giveaways có điều kiện
 

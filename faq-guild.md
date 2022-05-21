@@ -1,4 +1,4 @@
-# FAQ - Guild
+# ❔ FAQ - Guild
 
 ## Làm cách nào để duyệt confession?
 

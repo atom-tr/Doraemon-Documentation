@@ -2,7 +2,7 @@
 description: Everything is anonymous.
 ---
 
-# Confessions
+# 💬 Confessions
 
 ## Details
 
