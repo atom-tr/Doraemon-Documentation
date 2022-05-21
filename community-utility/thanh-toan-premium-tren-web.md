@@ -63,5 +63,17 @@ Hiện có 3 nhóm gói Premium với chức năng chính như sau:&#x20;
 {% endtab %}
 {% endtabs %}
 
+* Chọn gói muốn nâng cấp, click **Upgrade**
+* Điền **Discord ID** muốn nâng cấp, với các gói Server thì nhập **server ID**, còn lại nhập **user ID**.
+
+![](https://lh6.googleusercontent.com/-9eHxP7zbM0iXe5a19avPRsgtlXMYLv1erzV9bH6eZ\_Xd07BsoN1hXJaWVCHzW75OO4VFztq-g\_nuYqf6e-w-qaIunoJtbFW6JUFTFVuI3R5SoRpW0Qwq6FJRYtz9CYOPinFHx1tSTkwo2KSqQ)
+
+{% hint style="info" %}
+Lấy ID bằng cách dùng lệnh `catstatus` trong server
+{% endhint %}
+
+* Nhập số tháng
+* Click Order
+
 
 
