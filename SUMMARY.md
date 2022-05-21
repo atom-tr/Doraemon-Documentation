@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Getting Started...](README.md)
+* [🆙 Thanh toán Premium trên Web](thanh-toan-premium-tren-web.md)
 * [❔ FAQ - Guild](faq-guild.md)
 
 ## Community Utility
 
-* [🆙 Thanh toán Premium trên Web](community-utility/thanh-toan-premium-tren-web.md)
 * [🇻🇳 Language & Prefix](community-utility/language-and-prefix.md)
 * [🛠 Feature Channels](community-utility/feature-channels/README.md)
   * [Nối chữ](community-utility/feature-channels/noi-chu.md)
