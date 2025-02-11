@@ -13,7 +13,10 @@ description: Cùng bạn bè, đồng đội chơi để nhận thêm phần th�
 #### Nhân vật
 
 Để nâng cấp chỉ số cơ bản của nhân vật, bạn chỉ có cách tăng cấp độ nhân vật đó, bằng cách spam cùng bạn bè.
+
 {% content-ref url="chuong-2-tham-ngan.md" %}
+[chuong-2-tham-ngan.md](chuong-2-tham-ngan.md)
+{% endcontent-ref %}
 
 #### Vũ khí
 
@@ -24,39 +27,44 @@ description: Cùng bạn bè, đồng đội chơi để nhận thêm phần th�
 {% endhint %}
 
 Chi tiết hơn về vũ khí:
-{% content-ref url="chuong-1-su-khoi-dau\vu-khi.md" %}
+
+{% content-ref url="chuong-1-su-khoi-dau/vu-khi.md" %}
+[vu-khi.md](chuong-1-su-khoi-dau/vu-khi.md)
+{% endcontent-ref %}
 
 #### Bảo bối
 
 Chỉ số cơ bản của bảo bối chính là % của các kỹ năng. Khi nâng bảo bối lên các cấp sẽ nhận được mức % tương ứng. Để nâng cấp bảo bối, bạn cần 4 bảo bối cùng loại và cấp độ. Xem thêm chi tiết về bảo bối ở phần:
-{% content-ref url="chuong-1-su-khoi-dau\bao-boi.md" %}
+
+{% content-ref url="chuong-1-su-khoi-dau/bao-boi.md" %}
+[bao-boi.md](chuong-1-su-khoi-dau/bao-boi.md)
+{% endcontent-ref %}
 
 ### Chỉ số mở rộng
 
 Loại chỉ số này không tăng theo cấp độ của trang bị, mà cần gem để cường hoá.
 
-- ![attack](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1&size=20)`attack`: Chỉ số tấn công.
-- ![defense](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1&size=20)`defense`: Chỉ số phòng thủ.
-- ![luck](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1&size=20)`luck`: Chỉ số này giúp tăng tỷ lệ chí mạng.
-- ![wisdom](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1&size=20)`wisdom`: Chỉ số tốc độ, quyết định người đi trước.
+* ![attack](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1\&size=20)`attack`: Chỉ số tấn công.
+* ![defense](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1\&size=20)`defense`: Chỉ số phòng thủ.
+* ![luck](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1\&size=20)`luck`: Chỉ số này giúp tăng tỷ lệ chí mạng.
+* ![wisdom](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1\&size=20)`wisdom`: Chỉ số tốc độ, quyết định người đi trước.
 
 Loại gem tương ứng với các chỉ số này:
 
-- ![attack](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1&size=20)`attack`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698570646057255014.webp?size=20&quality=lossless)
-- ![defense](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1&size=20)`defense`: Azure Dragon ![Tiny Azure Dragon](https://cdn.discordapp.com/emojis/698566971549286462.webp?size=20&quality=lossless)
-- ![luck](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1&size=20)`lu`luck`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698571667441451008.webp?size=20&quality=lossless)
-- ![wisdom](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1&size=20)`wisdom`: Blue Tortoise ![Tiny Blue Tortoise](https://cdn.discordapp.com/emojis/698566950229508138.webp?v=1&size=20&quality=lossless)
+* ![attack](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1\&size=20)`attack`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698570646057255014.webp?size=20\&quality=lossless)
+* ![defense](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1\&size=20)`defense`: Azure Dragon ![Tiny Azure Dragon](https://cdn.discordapp.com/emojis/698566971549286462.webp?size=20\&quality=lossless)
+* ![luck](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1\&size=20)`lu`luck\`: Vermilion Bird ![Tiny Vermilion Bird](https://cdn.discordapp.com/emojis/698571667441451008.webp?size=20\&quality=lossless)
+* ![wisdom](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1\&size=20)`wisdom`: Blue Tortoise ![Tiny Blue Tortoise](https://cdn.discordapp.com/emojis/698566950229508138.webp?v=1\&size=20\&quality=lossless)
 
-Mỗi loại gem sẽ có 4 cấp: `Tiny` (`+2`) > `Flawless` (`+5`) > `Royal` (`+8`) > `Galaxy` (`+10`) - tương ứng số chỉ số cộng thêm
-Bạn sẽ cần 4 gem để nâng gem lên cấp độ cao hơn. Lệnh:
+Mỗi loại gem sẽ có 4 cấp: `Tiny` (`+2`) > `Flawless` (`+5`) > `Royal` (`+8`) > `Galaxy` (`+10`) - tương ứng số chỉ số cộng thêm Bạn sẽ cần 4 gem để nâng gem lên cấp độ cao hơn. Lệnh:
 
-```s
+```
 catg cb [id gem] [số lượng]
 ```
 
 Lệnh cường hoá chỉ số mở rộng:
 
-```s
+```
 catup [id trang bị] [id loại gem] [số lượng gem]
 ```
 
@@ -68,11 +76,11 @@ Không giống Houtu khi cường hoá vũ khí, các loại gem trên không t�
 
 Sau khi đã tìm cho mình được trang bị phù hợp cũng như nhân vật yêu thích để sử dụng, hãy tìm cho mình những đồng đội mạnh mẽ để cùng nhau chinh phục các con boss khó nhằn:
 
-- Xem team hiện tại: `cattm`
-- Invite người khác vào team: `cattm i [user]`
-- Chuyển key trưởng nhóm cho người khác: `cattm tf [user]`
-- Đuổi một người ra khỏi team: `cattm k [user]`
-- Cùng đồng đội chinh phục bảng xếp hạng: `catfight team` | `catf tm`. Cả đội sẽ cùng nhận được exp khi bạn tham gia trận chiến.
+* Xem team hiện tại: `cattm`
+* Invite người khác vào team: `cattm i [user]`
+* Chuyển key trưởng nhóm cho người khác: `cattm tf [user]`
+* Đuổi một người ra khỏi team: `cattm k [user]`
+* Cùng đồng đội chinh phục bảng xếp hạng: `catfight team` | `catf tm`. Cả đội sẽ cùng nhận được exp khi bạn tham gia trận chiến.
 
 ## Các loại boss
 
@@ -85,12 +93,12 @@ Tất cả các boss có chia sẻ thời gian hồi với nhau.
 Những con boss ngày là những con boss cực kì mạnh mẽ, với 3 mức độ: Dễ, Vừa và Khó.\
 Đối với những con boss này, mỗi ngày bạn sẽ chỉ có thể đánh bại nó và lãnh thưởng 1 lần ở mỗi mức độ.
 
-| BOSS  | Command   | Ngày trong tuần (GMT+7) |
-| ----- | --------- | ----------------------- |
-| `WA`  | `f b wae` | Chủ nhật, Thứ 2         |
-| `WB`  | `f b wbe` | Thứ 3, 4                |
-| `WC`  | `f b wce` | Thứ 5                   |
-| `WE`  | `f b wee` | Thứ 6, 7                |
+| BOSS | Command   | Ngày trong tuần (GMT+7) |
+| ---- | --------- | ----------------------- |
+| `WA` | `f b wae` | Chủ nhật, Thứ 2         |
+| `WB` | `f b wbe` | Thứ 3, 4                |
+| `WC` | `f b wce` | Thứ 5                   |
+| `WE` | `f b wee` | Thứ 6, 7                |
 
 {% hint style="info" %}
 Boss ngày không yêu cầu level các thành viên trong team.

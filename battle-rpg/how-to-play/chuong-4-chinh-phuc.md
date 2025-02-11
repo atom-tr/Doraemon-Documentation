@@ -24,13 +24,12 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 * Một số ải chỉ dành cho **Battle Premium User**.
 
 {% tabs %}
-
 {% tab title="DOLLMANSTEIN" %}
 Map **TAFODADP**, `cata t` để xem thông tin map. Đây là ải viễn chinh dành cho những người chơi mới, level thấp.
 
-<hr>
+***
 
-{% hint style="waring" %}
+{% hint style="info" %}
 Map này dành cho những người mới / đổi nhân vật nên sẽ giới hạn level nhân vật của toàn team (Level 1-35).
 {% endhint %}
 
@@ -38,18 +37,17 @@ Map này dành cho những người mới / đổi nhân vật nên sẽ giới 
 >
 > Thế giới: **TAFODADP**
 >
-> Ải: `1/15` \
+> Ải: `1/15`\
 > Các ải đã bỏ qua: `không có`
 >
-> Viễn chinh **The Spirit Grotto** \
-> \- Vé: `1 🎫` \
+> Viễn chinh **The Spirit Grotto**\
+> \- Vé: `1 🎫`\
 > \- Thưởng: `1000 XP`, ![:1:](https://cdn.discordapp.com/emojis/656202630179323935.webp?size=20\&quality=lossless) `x5`, ![:gem\_box:](https://cdn.discordapp.com/emojis/780138010451902524.webp?size=20\&quality=lossless) `x2`, ![:gg\_box:](https://cdn.discordapp.com/emojis/780138003904987137.webp?size=20\&quality=lossless) `x1`, ![:wp\_box:](https://cdn.discordapp.com/emojis/780138006865641523.webp?size=20\&quality=lossless) `x1`
 >
-> Chọn thế giới: `cata f [world] (-s stage)` \
+> Chọn thế giới: `cata f [world] (-s stage)`\
 > Xem bản đồ: `cata [world]`
 >
-> ![TAFODADP](https://media.discordapp.net/attachments/698925345855897741/933346387674923018/map-3.png?width=225\&height=225)
->
+> <img src="https://media.discordapp.net/attachments/698925345855897741/933346387674923018/map-3.png?width=225&#x26;height=225" alt="TAFODADP" data-size="original">
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -59,7 +57,7 @@ Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [
 {% tab title="DOLLMANSTEIN" %}
 Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
-<hr>
+***
 
 > ![cata d](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
@@ -74,8 +72,7 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 > Chọn thế giới: `cata f [world] (-s stage)`\
 > Xem bản đồ: `cata [world]`
 >
-> ![cata d](https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240\&height=240)
->
+> <img src="https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240&#x26;height=240" alt="cata d" data-size="original">
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -85,7 +82,7 @@ Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [
 {% tab title="Map Event" %}
 Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ xuất hiện trong một khoảng thời gian sự kiện.
 
-<hr>
+***
 
 > ![cata x](https://images-ext-1.discordapp.net/external/dOmjULqxxQnfUUQgJ3To3N3hGwhSebifv8q86SVLE48/https/cdn.discordapp.com/avatars/423327141921423361/764e55505d8c943253ab32e87a96734a.webp?width=25\&height=25) Bản đồ viễn chinh của 👾 Atom.
 >
@@ -100,8 +97,7 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 > Chọn thế giới: `cata f [world] (-s stage)`\
 > Xem bản đồ: `cata [world]`
 >
-> ![cata x](https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240\&height=240)
->
+> <img src="https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240&#x26;height=240" alt="cata x" data-size="original">
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -135,7 +131,7 @@ Sử dụng `cathelp worldboss [lệnh con]` để xem chi tiết hơn
 * `info` | `i`: Xem trạng thái của boss và bảng xếp hạng sát thương đóng góp
 * `fight` | `f`:cùng đồng đội tham gia tấn công boss
 
-```s
+```
 catwb f [HOLLOWPOD|FOULMONSTER|MURKWRAITH]
 catwb i [H|F|M]
 ```

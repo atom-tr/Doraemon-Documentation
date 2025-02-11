@@ -1,14 +1,14 @@
-# Getting Started
+# 🆕 Getting Started...
 
-## Doraemon | Battle game & Fun stuff bot
+## Battle RPG & Gambles with Doraemon
 
-A cute bot with battle RPG, PvP gambles, text to speech, anonymous confession, temp voice channel, conditional giveaway, Among us, etc..
+Play Doraemon-style battle RPG game and gambles with your friends.
 
 Here you are, some useful links:
 
-* [**Invite Doraemon**](https://discord.com/oauth2/authorize?client\_id=574812330760863744\&permissions=838332017\&scope=bot)
-* [**Support Channel**](https://discord.gg/9kfcFNt)
-* [**Vote Doraemon**](https://top.gg/bot/574812330760863744/vote)
+* [**Invite Doraemon**](https://discord.com/oauth2/authorize?client_id=1329758595981774908\&permissions=1084546739264\&integration_type=0\&scope=bot)
+* [**Support Channel**](https://discord.gg/7QAZe6QP8U)
+* [**Vote Doraemon**](https://top.gg/bot/1329758595981774908/vote)
 
 ### Syntax
 
@@ -30,5 +30,5 @@ Một số lệnh (command) sẽ có những lệnh con, khi đó câu lệnh đ
 ## Supports
 
 {% hint style="info" %}
-Nếu bạn có bất cứ thắc mắc hay cần hỗ trợ, tham gia [**Cat Server**](https://discord.gg/gYaXteY)
+Nếu bạn có bất cứ thắc mắc hay cần hỗ trợ, tham gia Support[ **Server**](https://discord.gg/gYaXteY)
 {% endhint %}
