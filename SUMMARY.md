@@ -30,3 +30,8 @@
 * [GIFs](others/page-5.md)
 * [Media](others/media.md)
 * [Fun & Others](others/fun-and-others.md)
+
+## Term of Service and Privacy Policy
+
+* [Privacy Policy](term-of-service-and-privacy-policy/privacy-policy.md)
+* [Term of Service](term-of-service-and-privacy-policy/term-of-service.md)
