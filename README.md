@@ -1,8 +1,6 @@
 # 🆕 Getting Started...
 
-##
-
-## Battle RPG & Gambles with Doraemon
+### Battle RPG & Gambles with Doraemon
 
 Play Doraemon-style battle RPG game and gambles with your friends.
 
