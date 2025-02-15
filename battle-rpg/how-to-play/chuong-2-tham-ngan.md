@@ -11,14 +11,17 @@ Cần thêm prefix của Doraemon trước các lệnh.\
 Các lệnh fight cần phải trang bị nhân vật và vũ khí.
 {% endhint %}
 
-| Command           | Description                                       | Basic Cooldown | Aliases |
-| ----------------- | ------------------------------------------------- | -------------- | ------- |
-| `work`            | Bạn sẽ nhận được random: dora, gadget, gem        | 45s            | `w`     |
-| `character claim` | Thu thập 1 nhân vật trong game                    | 25s            | `c c`   |
-| `fight`           | Tham gia trận chiến random, nhận exp, tăng level. | 15s            | `f`     |
-| `fight solo`      | Tham gia một trận đấu hạng đơn                    | 15s            | `f s`   |
-| `fight duo`       | Cùng vợ \| chồng tham gia đấu hạng.               | 15s            | `f d`   |
-| `fight team`      | Cùng team của bạn tham gia đấu hạng.              | 15s            | `f tm`  |
+| Command           | Description                                                                                                                                                   | Basic Cooldown | Aliases |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------- |
+| `daily`           | <p>Nhận quà điểm danh mỗi 12 giờ, chuỗi điểm danh càng dài thì phần thưởng càng lớn<br><br><strong>Vote bot, marry, premium sẽ tăng phần thưởng.</strong></p> |                |         |
+| `work`            | Bạn sẽ nhận được random: dora, gadget, gem                                                                                                                    | 45s            | `w`     |
+| `character claim` | Thu thập 1 nhân vật trong game                                                                                                                                | 25s            | `c c`   |
+| `fight`           | Tham gia trận chiến random, nhận exp, tăng level.                                                                                                             | 15s            | `f`     |
+| `fight solo`      | Tham gia một trận đấu hạng đơn                                                                                                                                | 15s            | `f s`   |
+| `fight duo`       | Cùng vợ \| chồng tham gia đấu hạng.                                                                                                                           | 15s            | `f d`   |
+| `fight team`      | Cùng team của bạn tham gia đấu hạng.                                                                                                                          | 15s            | `f tm`  |
+
+
 
 {% hint style="info" %}
 Battle premium sẽ được giảm thời gian hồi các lệnh

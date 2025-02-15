@@ -62,14 +62,26 @@ Mỗi loại gem sẽ có 4 cấp: `Tiny` (`+2`) > `Flawless` (`+5`) > `Royal` (
 catg cb [id gem] [số lượng]
 ```
 
+Ví dụ:
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 Lệnh cường hoá chỉ số mở rộng:
 
 ```
-catup [id trang bị] [id loại gem] [số lượng gem]
+catup [loại trang bị] [id trang bị] [id loại gem] [số lượng gem]
 ```
+
+Ví dụ cường hoá vũ khí (loại trang bị: `weapon` / `wp` )
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Không giống Houtu khi cường hoá vũ khí, các loại gem trên không tăng thêm tỷ lệ khi bạn sử dụng số lượng lớn.
+{% endhint %}
+
+{% hint style="info" %}
+Bạn có thể thu thập gem bẳng `catwork`, hoặc thu thập hòm gemkhi đánh boss/adventure hay mua trong shop (ID: 3) /chợ Đô Rê và mở hòm để nhận ngẫu nhiên gem.![](<../../.gitbook/assets/image (10).png>)
 {% endhint %}
 
 ## Đồng đội

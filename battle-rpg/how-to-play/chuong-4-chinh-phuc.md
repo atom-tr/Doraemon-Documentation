@@ -12,6 +12,10 @@ Sau khi bạn đã tăng cấp nhân vật, nâng cấp trang bị, có cho mìn
 Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 {% endhint %}
 
+{% hint style="info" %}
+Ải viễn chinh là chế độ với lượng phần thưởng **rất lớn** về cả kinh nghiệm và vật phẩm khi vượt qua.
+{% endhint %}
+
 ### Các lệnh liên quan
 
 * `cata [Tên]`: Xem thông tin ải
@@ -47,7 +51,7 @@ Map này dành cho những người mới / đổi nhân vật nên sẽ giới 
 > Chọn thế giới: `cata f [world] (-s stage)`\
 > Xem bản đồ: `cata [world]`
 >
-> <img src="https://media.discordapp.net/attachments/698925345855897741/933346387674923018/map-3.png?width=225&#x26;height=225" alt="TAFODADP" data-size="original">
+> ![](<../../.gitbook/assets/image (11).png>)
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -72,7 +76,7 @@ Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn c
 > Chọn thế giới: `cata f [world] (-s stage)`\
 > Xem bản đồ: `cata [world]`
 >
-> <img src="https://media.discordapp.net/attachments/698925345855897741/933210614908747857/map-1.png?width=240&#x26;height=240" alt="cata d" data-size="original">
+> ![](<../../.gitbook/assets/image (12).png>)
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -97,7 +101,7 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 > Chọn thế giới: `cata f [world] (-s stage)`\
 > Xem bản đồ: `cata [world]`
 >
-> <img src="https://media.discordapp.net/attachments/698925345855897741/933211156322091068/map-2.png?width=240&#x26;height=240" alt="cata x" data-size="original">
+> ![](<../../.gitbook/assets/image (13).png>)
 
 {% hint style="info" %}
 Bạn có thể đánh các map đã bỏ qua bằng lệnh `cata f [world] -s [stage]`
@@ -143,4 +147,7 @@ Thời gian cooldown khi đánh boss thế giới không chia sẻ cùng các bo
 
 ### Chiến lợi phẩm
 
-Chiến lợi phẩm sau khi hạ gục boss sẽ được chia theo % sát thương của team gây ra cho boss.
+Phần thưởng khi tham gia đánh world boss sẽ chia theo các hạng mục và theo lượng sát thương mà bạn/team đã gây ra.
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+

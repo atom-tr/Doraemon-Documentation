@@ -6,13 +6,14 @@ Bạn cần trang bị một nhân vật và weapon để có thể tham gia tr�
 
 ## Các lệnh liên quan
 
-* Xem danh sách vũ khí của Cat: `catgg ls`
-* Xem thông tin vũ khí của game: `catgg i [ID gốc]`
-* Chi tiết vũ khí: `catgg [ID hiện tại]`
+* Xem danh sách bảo bối của Cat: `catgg ls`
+* Xem danh sách bảo bối của bạn: `catgg`
+* Xem thông tin bảo bối của game: `catgg i [ID gốc]`
+* Chi tiết bảo bối: `catgg [ID hiện tại]`
 * Sử dụng: `catgg use [ID hiện tại]`
-* Đổi tên vũ khí: `catgg rn [ID hiện tại] [tên]`
-* Nâng cấp vũ khí: `catup gg [ID hiện tại] [ID gem] [số lượng gem]`
-* Bán nhân vật: `catsell gg [ID] [số lượng]`
+* Dung luyện: `catgg cb [ID] [quantity]`
+* Nâng cấp: `catup gg [ID hiện tại] [ID gem] [số lượng gem]`
+* Bán: `catsell gg [ID] [số lượng]`
 
 {% hint style="info" %}
 ID hiện tại của gg sẽ là: `[Cấp]+[ID gốc]`
@@ -22,19 +23,24 @@ ID hiện tại của gg sẽ là: `[Cấp]+[ID gốc]`
 Xem đầy đủ các lệnh và thông tin chi tiết liên quan: **`cath gg`**
 {% endhint %}
 
-Ngoài gói **Starter Pack (item 10)** chỉ nhận được 1 lần khi bắt đầu chơi, bạn có thể có vũ khí bằng cách mở rương (item 1) hoặc mua từ người chơi khác.
+Ngoài gói **Starter Pack (item 10)** chỉ nhận được 1 lần khi bắt đầu chơi, bạn có thể có bảo bối bằng cách mở rương (item 1) hoặc mua từ người chơi khác.
 
-Bạn có thể nhận rương vũ khí: mua ở shop với giá 25 dora `catbuy 4 [số lượng]` hoặc nhận được khi đánh bại boss.\
-Bạn có thể tìm mua vũ khí bằng cách hỏi trực tiếp ở người chơi khác, hoặc tìm kiếm ở chợ Đô Rề: `catm gg`
+Bạn có thể nhận rương bảo bối: mua ở shop với giá 25 dora `catbuy 4 [số lượng]` hoặc nhận được khi đánh bại boss.
+
+Bạn có thể mở hòm bảo bối bằng `catuse 4 [số lượng]`
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Bạn có thể tìm mua bảo bối bằng cách hỏi trực tiếp ở người chơi khác, hoặc tìm kiếm ở chợ Đô Rề: `catm gg`
 
 {% hint style="warning" %}
 Người chơi khi bán qua chợ Đô Rề sẽ phải chịu phí 10%. Các người chơi có Premium Batte 3 / 4 sẽ được miễn khoản phí này.
 {% endhint %}
 
-## Thông tin và chỉ số vũ khí
+## Thông tin và chỉ số bảo bối
 
-Để xem đầy đủ chi tiết nhân vật: `catgg i [ID gốc]`\
-Xem thông tin nhân vật bạn đang có: `catgg [ID hiện tại]`
+Để xem đầy đủ chi tiết bảo bối: `catgg i [ID gốc]`\
+Xem thông tin chi tiết bảo bối bạn đang có: `catgg [ID hiện tại]`
 
 Các chỉ số:
 
@@ -71,8 +77,6 @@ catgg i 50
 > **Ra lò**: `true`
 >
 > Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `8`
->
-> <img src="https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=166&#x26;height=166" alt="Gomu Gomu no Mi" data-size="original">
 {% endtab %}
 
 {% tab title="catg [ID]" %}
@@ -100,29 +104,27 @@ catgg 250
 > Sử dụng `cathelp gadget` để xem danh sách lệnh liên quan
 >
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `8` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `8` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `8` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `8`
->
-> <img src="https://media.discordapp.net/attachments/656198606965047327/818736701727703040/gomu.gif?width=166&#x26;height=166" alt="Gomu Gomu no Mi" data-size="original">
 {% endtab %}
 {% endtabs %}
 
 ## Kỹ năng của bảo bối
 
-![Gomu Gomu no Mi](../../../.gitbook/assets/gg\_250.png)
+![Gomu Gomu no Mi](../../../.gitbook/assets/gg_250.png)
 
 * **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1\&size=20)
 * **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.png?v=1\&size=20) `Không nhận 25/{30}/35/50/75% sát thương từ đối thủ trong 1 lượt`
 * **Mana tiêu thụ**: `40`
 * **Thời gian hồi chiêu**: `3`
 
-Với thông tin kỹ năng, ta có 75% là ngưỡng sức mạnh của kỹ năng của loại bảo bối ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1\&size=20), và các số 25/{30}/35/50/75% là sức mạnh của từng cấp của bảo bối. Với {xx%\} là sức mạnh hiện tại. Từ 2 con số này ta có thể tính được % sức mạnh của bảo bối bạn sử dụng.\
-VD với gg 250 trên ta có: 75%\*30% = 22.5%, tức bạn sẽ không nhận 22.5% sát thương từ đối thủ trong 1 lượt.
+Với thông tin kỹ năng, ta có `75%` là ngưỡng sức mạnh của kỹ năng của loại bảo bối ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1\&size=20), và các số `25/{30}/35/50/75%` là sức mạnh của từng cấp của bảo bối. Với `{xx%}` là sức mạnh hiện tại. Từ 2 con số này ta có thể tính được % sức mạnh của bảo bối bạn sử dụng.\
+VD với bảo bối `250` trên ta có: `75%*30% = 22.5%`, tức bạn sẽ không nhận `22.5%` sát thương từ đối thủ trong 1 lượt.
 
-## Nâng cấp bảo bối
+## Dung luyện bảo bối
 
 Cần 4 bảo bối cùng cấp và loại để có thể dung luyện lên cấp tiếp theo: `catgg cb [ID hiện tại] [số lượng]`
 
 {% hint style="success" %}
-Vũ khí sẽ có thể nâng cấp 4 lần - **5\* là cấp cao nhất**
+Bảo bối sẽ có thể nâng cấp 4 lần - **5\* là cấp cao nhất**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -156,9 +158,7 @@ Nếu các bạn chưa có đủ thông tin để tự build cho mình một b�
 > **Chỉ dành Premium**: `false`\
 > **Ra lò**: `true`
 >
-> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `5`
->
-> [![Image](https://media.discordapp.net/attachments/704336314559889521/705121049246695465/tank390.png?width=64\&height=47)](https://cdn.discordapp.com/attachments/704336314559889521/705121049246695465/tank390.png)
+> Chỉ số mở rộng![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `5` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `5` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `5` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless)&#x20;
 {% endtab %}
 
 {% tab title="📷 Camera" %}

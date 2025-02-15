@@ -2,7 +2,7 @@
 
 ## Ngôn ngữ
 
-* Command: `language` - Giúp cài đặt ngôn ngữ bot - là ngôn ngữ bot sẽ dùng với lệnh (`speak`) và ngôn ngữ sẽ reponse bạn
+* Command: `language` - Giúp cài đặt ngôn ngữ phản hồi của bot.
 * Aliases: `lg`
 * Sub-commands:
   * `catlg`: Xem ngôn ngữ hiện server đang dùng
@@ -11,7 +11,7 @@
 
 ## Prefix
 
-* Command: `prefix` - Custom bot prefix
+* Command: `prefix` - Tuỳ chỉnh bot prefix trong server của bạn.
 
 ```
 catprefix <new-prefix>

@@ -29,18 +29,3 @@ cattf n 5000
 cattf d 20
 ```
 
-## Lixi
-
-### Usages Lixi
-
-* `catlx list`
-* `catlx take`
-* `catlx give [amount] (boxes) (random) (server only)`
-
-### Examples Lixi
-
-```
-catlx give 1000 10
-catlx give 5000 rd
-catlx give 3000 s
-```

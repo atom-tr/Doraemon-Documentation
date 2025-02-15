@@ -4,7 +4,7 @@ description: >-
   phòng thủ cơ bản lại đòn đánh của địch.
 ---
 
-# ⚔ Vũ khí
+# ⚔️ Vũ khí
 
 {% hint style="warning" %}
 Bạn cần trang bị một nhân vật và weapon để có thể tham gia trận chiến.
@@ -13,15 +13,18 @@ Bạn cần trang bị một nhân vật và weapon để có thể tham gia tr�
 ## Các lệnh liên quan
 
 * Xem danh sách vũ khí của Cat: `catwp ls`
-* Xem thông tin vũ khí của game: `catwp i [ID gốc]`
+* Xem danh sách vũ khí của bạn: `catwp`
+* Xem thông tin chi tiết vũ khí: `catwp i [ID gốc]`
 * Chi tiết vũ khí: `catwp [ID hiện tại]`
 * Sử dụng: `catwp use [ID hiện tại]`
 * Đổi tên vũ khí: `catwp rn [ID hiện tại] [tên]`
 * Nâng cấp vũ khí: `catup wp [ID hiện tại] [ID gem] [số lượng gem]`
-* Bán nhân vật: `catsell wp [ID] [số lượng]`
+* Bán vũ khí: `catsell wp [ID] [số lượng]`
 
 {% hint style="info" %}
 ID hiện tại của wp sẽ là: `[Cấp]+[ID gốc]`
+
+Ví dụ: vũ khí cấp 1 với ID `137` khi nâng lên cấp 2 sẽ có ID là `237`
 {% endhint %}
 
 {% hint style="info" %}
@@ -31,7 +34,7 @@ Xem đầy đủ các lệnh và thông tin chi tiết liên quan: **`cath wp`**
 Ngoài gói **Starter Pack (item 10)** chỉ nhận được 1 lần khi bắt đầu chơi, bạn có thể có vũ khí bằng cách mở rương (item 1) hoặc mua từ người chơi khác.
 
 Bạn có thể nhận rương vũ khí: mua ở shop với giá 25 dora `catbuy 1 [số lượng]` hoặc nhận được khi đánh bại boss.\
-Bạn có thể tìm mua vũ khí bằng cách hỏi trực tiếp ở người chơi khác, hoặc tìm kiếm ở chợ Đô Rề: `catm wp`
+Bạn có thể tìm mua vũ khí bằng cách hỏi trực tiếp ở người chơi khác, hoặc tìm kiếm ở chợ giời (`catmarket`) bằng lệnh:`catm wp`
 
 {% hint style="warning" %}
 Người chơi khi bán qua chợ Đô Rề sẽ phải chịu phí 10%. Các người chơi có Premium Batte 3 / 4 sẽ được miễn khoản phí này.
@@ -73,8 +76,6 @@ VD ở đây chúng ta xem thông tin vũ khí có ID 61: `catwp i 61`
 >
 > Chỉ số cơ bản ![:da:](https://cdn.discordapp.com/emojis/689391397643747368.webp?size=20\&quality=lossless) `180` ![:sh:](https://cdn.discordapp.com/emojis/689391171411247196.webp?size=20\&quality=lossless) `50`\
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `60` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `25` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `35`
->
-> <img src="https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306&#x26;height=240" alt="wp61" data-size="original">
 {% endtab %}
 
 {% tab title="catwp [ID]" %}
@@ -101,18 +102,21 @@ catwp 861
 >
 > Chỉ số cơ bản ![:da:](https://cdn.discordapp.com/emojis/689391397643747368.webp?size=20\&quality=lossless) `180(+168)` ![:sh:](https://cdn.discordapp.com/emojis/689391171411247196.webp?size=20\&quality=lossless) `50(+46)`\
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `60(+10)` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `25(+10)` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50(+10)` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `35(+10)`
->
-> <img src="https://images-ext-1.discordapp.net/external/FB8WN9V9RxSALcn936i7G2MfNg9yxA-yJXRNZRBZWMI/https/media.discordapp.net/attachments/681423309786972201/804306728019034162/image0.png?width=306&#x26;height=240" alt="861" data-size="original">
 {% endtab %}
 {% endtabs %}
 
 ## Cường hóa vũ khí
 
-Để nâng cấp vũ khí của bạn, bạn cần sử dụng Houtu (gem 3) để nâng cấp. Số lượng và tỷ lệ sẽ phụ thuộc vào cấp độ hiện tại của vũ khí bạn. Số lượng Huotu cần để 100% nâng cấp thành công được tính bằng phép tính: `3^[Cấp hiện tại]`
+Để nâng cấp vũ khí của bạn, bạn cần sử dụng **Houtu** (gem 3) để nâng cấp.\
+![](<../../../.gitbook/assets/image (2).png>)
+
+Số lượng và tỷ lệ sẽ phụ thuộc vào cấp độ hiện tại của vũ khí bạn. Số lượng **Huotu** cần để 100% nâng cấp thành công được tính bằng phép tính: `3^[Cấp hiện tại]`
 
 ```
 catup wp [ID hiện tại của wp] 3 [số lượng gem 3]
 ```
+
+> ![](<../../../.gitbook/assets/image (3).png>)
 
 {% hint style="success" %}
 Vũ khí sẽ có thể nâng cấp 8 lần - **Cấp 9 là cấp cao nhất**

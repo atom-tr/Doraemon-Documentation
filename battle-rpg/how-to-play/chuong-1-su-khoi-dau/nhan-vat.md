@@ -55,8 +55,6 @@ Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng l�
 >
 > Chỉ số cơ bản ![:he:](https://cdn.discordapp.com/emojis/689390995426902085.webp?size=20\&quality=lossless) `700` ![:ma:](https://cdn.discordapp.com/emojis/689390782590877728.webp?size=20\&quality=lossless) `200`\
 > Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `30` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `20` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `20`
->
-> <img src="https://images-ext-1.discordapp.net/external/-dpb4cUlXoyQ96lVkylvsR8zzj7_UbMYHgpNxQMpWhw/https/media.discordapp.net/attachments/656198632298774528/805651584897384498/c10.png?width=180&#x26;height=240" alt="Doramiga" data-size="original">
 {% endtab %}
 
 {% tab title="catc [ID]" %}
@@ -76,9 +74,7 @@ Bằng lệnh này bạn có thể xem chi tiết chỉ số được cộng th�
 > Sử dụng `cathelp character` để xem danh sách các lệnh liên quan
 >
 > Chỉ số cơ bản ![:he:](https://cdn.discordapp.com/emojis/689390995426902085.webp?size=20\&quality=lossless) `700(+144)` ![:ma:](https://cdn.discordapp.com/emojis/689390782590877728.webp?size=20\&quality=lossless) `200(+6)`\
-> Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `30(+2)` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `20` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `20`
->
-> [![Doramiga](https://images-ext-1.discordapp.net/external/-dpb4cUlXoyQ96lVkylvsR8zzj7\_UbMYHgpNxQMpWhw/https/media.discordapp.net/attachments/656198632298774528/805651584897384498/c10.png?width=180\&height=240)](https://media.discordapp.net/attachments/656198632298774528/805651584897384498/c10.png)
+> Chỉ số mở rộng ![:of:](https://cdn.discordapp.com/emojis/689391538601852959.webp?size=20\&quality=lossless) `30(+2)` ![:de:](https://cdn.discordapp.com/emojis/693700331216830474.webp?size=20\&quality=lossless) `20` ![:lu:](https://cdn.discordapp.com/emojis/689391282350588106.webp?size=20\&quality=lossless) `50` ![:wi:](https://cdn.discordapp.com/emojis/689391102100635728.webp?size=20\&quality=lossless) `2`
 {% endtab %}
 {% endtabs %}
 
