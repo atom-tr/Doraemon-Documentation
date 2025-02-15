@@ -8,7 +8,7 @@
 catcn info
 ```
 
-![catcn i](../../.gitbook/assets/en\_catcn\_i\_cfs.png)
+<div align="left"><img src="../../.gitbook/assets/en_catcn_i_cfs.png" alt="catcn i"></div>
 
 ### Reset featured channel settings
 

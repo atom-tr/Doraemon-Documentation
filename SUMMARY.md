@@ -31,7 +31,7 @@
 * [Media](others/media.md)
 * [Fun & Others](others/fun-and-others.md)
 
-## Term of Service and Privacy Policy
+## TERMS OF SERVICE & PRIVACY POLICY
 
-* [Privacy Policy](term-of-service-and-privacy-policy/privacy-policy.md)
-* [Term of Service](term-of-service-and-privacy-policy/term-of-service.md)
+* [Privacy Policy](terms-of-service-and-privacy-policy/privacy-policy.md)
+* [Terms of Service](terms-of-service-and-privacy-policy/terms-of-service.md)

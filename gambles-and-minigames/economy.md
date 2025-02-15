@@ -2,14 +2,7 @@
 
 Doreamon's catnip currency system used for gamble games.
 
-| Command     | Descriptions                                                                                                               | Aliases                                                   |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| `give`      | <p>Give catnip to other user</p><ul><li>catgivenip @user &#x3C;value></li><li>catgivedorayaki @user &#x3C;value></li></ul> | <ul><li><code>gn</code></li><li><code>gd</code></li></ul> |
-| `daily`     | Get daily reward every 12 hours                                                                                            | `daily` `high`                                            |
-| `lixi`      | Give and take catnip randomly                                                                                              | `lx` `giveandtake` `gat`                                  |
-| `nip`       | Check your balance                                                                                                         | `nip`                                                     |
-| `task`      | Finish assigned tasks and get rewards or custom your task to setup Conditional Giveaways                                   | `task`                                                    |
-| `transfer`  | Exchange catnip and dorayaki                                                                                               | `tf`                                                      |
+<table><thead><tr><th width="150">Command</th><th width="391">Descriptions</th><th>Aliases</th></tr></thead><tbody><tr><td><code>give</code> </td><td><p>Give catnip to other user</p><ul><li>catgivenip @user &#x3C;value></li><li>catgivedorayaki @user &#x3C;value></li></ul></td><td><ul><li><code>gn</code></li><li><code>gd</code></li></ul></td></tr><tr><td><code>daily</code> </td><td>Get daily reward every 12 hours</td><td><code>daily</code> <code>high</code></td></tr><tr><td><code>lixi</code> </td><td>Give and take catnip randomly</td><td><code>lx</code> <code>giveandtake</code> <code>gat</code></td></tr><tr><td><code>nip</code> </td><td>Check your balance</td><td><code>nip</code></td></tr><tr><td><code>task</code> </td><td>Finish assigned tasks and get rewards or custom your task to setup Conditional Giveaways</td><td><code>task</code></td></tr><tr><td><code>transfer</code> </td><td>Exchange catnip and dorayaki</td><td><code>tf</code></td></tr></tbody></table>
 
 ### Lixi
 
