@@ -30,3 +30,8 @@
 
 * [Media](others/media.md)
 * [Support](others/fun-and-others.md)
+
+## TERMS OF SERVICE & PRIVACY POLICY
+
+* [Privacy Policy](terms-of-service-and-privacy-policy/privacy-policy.md)
+* [Terms of Service](terms-of-service-and-privacy-policy/terms-of-service.md)

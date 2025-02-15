@@ -10,6 +10,7 @@ Lối tắt:
 * [**Support Channel**](https://discord.gg/7QAZe6QP8U)
 * [**Vote Doraemon**](https://top.gg/bot/1329758595981774908/vote)
 * [**Patreon**](https://www.patreon.com/doraemonbot) or contact in Support Channel for **premium** upgrading
+* [Terms of Service & Privacy Policy](broken-reference)&#x20;
 
 ### Cú pháp
 
